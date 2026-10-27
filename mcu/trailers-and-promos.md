@@ -40,3 +40,17 @@ The October 25 Marvel post reinforces a team-up message. Reporting on a roughly 
 Never rehost full clips or copyrighted transcripts. Prefer verified uploads on Marvel, Disney, and MLB domains; distinguish real original footage from fan edits and from special-purpose advertising composites.
 
 **Related update:** [2026-10-26 sourced research entry](../news/2026-10-26.md).
+
+## Direct Disney-hosted video links — re-indexed 2026-10-27
+
+**Source:** [Disney's official movie page video grid](https://movies.disney.com/avengers-doomsday), reviewed October 27. These are **identified publisher-hosted assets**, not verified *new October 27 releases*. The Disney listing supplies runtimes, but the reviewed page does not provide original upload dates. The hosted player did not expose frame-by-frame footage in the text review, so no visual observations or timecodes are asserted here.
+
+| Official Disney video | Runtime in Disney index | Direct publisher-hosted URL | Notes |
+|---|---|---|---|
+| *In Theaters December 18* | 0:30 | [Disney Video — 0:30](https://video.disney.com/watch/avengers-doomsday-in-theaters-december-18-65ecb68a6e37bdeaccc51fcc) | Publisher describes a **stand together** campaign and ticket availability. May correspond to short social edits; do not infer precise release date. |
+| *Silence Your Phones* | 0:31 | [Disney Video — 0:31](https://video.disney.com/watch/avengers-doomsday-silence-your-phones-in-theaters-december-18-65c90a58f2c61deb74651fcd) | Cinema-etiquette promo; separate from theatrical plot footage. |
+| *Special Look* | 2:09 | [Disney Video — 2:09](https://video.disney.com/watch/avengers-doomsday-special-look-in-theaters-december-18-6590e687598031d27d85088d) | Studio-hosted special look; scene list/timestamps not reviewed. |
+| *Tickets on Sale* | 0:20 | [Disney Video — 0:20](https://video.disney.com/watch/avengers-doomsday-tickets-on-sale-in-theaters-december-18-65905e9c820823f5dfe509c1) | Ticketing promotional spot; not evidence of a new story reveal. |
+| *Official Trailer* | 2:25 | [Disney Video — 2:25](https://video.disney.com/watch/avengers-doomsday-official-trailer-in-theaters-december-18-6570e5fd34d02c78224df0db) | Existing trailer now tracked with a stable official Disney URL. |
+
+**Actionable next research step:** Check the asset-level publication dates on original Marvel/Disney posts and manually compare clip frames before labeling any of these newly released or claiming unique shots. Keep the earlier MLB cross-promotion separate from in-film footage.
