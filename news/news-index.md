@@ -2,6 +2,8 @@
 
 This directory tracks **dated, sourced** developments and clearly labeled theories, not repetitive rumor aggregation.
 
+- **[2026-10-27 — Sandra Hüller casting-report backfill and source audit](2026-10-27.md):** An October 23 trade-reported cameo (covered again October 26) is newly indexed. Character identity remains unknown; Cynthia von Doom and Latverian witch links are theories. **October 27 is the archive review date, not the original event date.**
+
 - **[2026-10-26 — verified promo and interview backfill](2026-10-26.md):** MLB's October 23 World Series crossover (confirmed via October 24 MLB report); Jonathan Hickman's October 21 on-record interview; October 25 Marvel promotional posts and follow-up TV-spot reporting. The date of this entry is the **research/review date**, not the date of all events.
 - [Initial archive checkpoint — 2026-10-25](weekly-updates/2026-10-25.md): initial repository structure; noted that MLB footage had not yet been verified in this archive.
 - [Trailer and promotional video catalog](../mcu/trailers-and-promos.md): original links, evidence status and missing timecode verification.
