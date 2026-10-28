@@ -1,6 +1,15 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-10-26. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-10-28. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## New items checked October 28, 2026
+
+| Asset | Original date | Original / corroborating source | Footage status |
+|---|---|---|---|
+| **Marvel India Diwali greeting / regional opening announcement** | **2026-10-28** | [Marvel India official X post](https://x.com/Marvel_India/status/2115315582094692356); [The Hollywood Reporter India, October 28](https://www.hollywoodreporterindia.com/features/insight/avengers-doomsday-set-for-early-india-release-robert-downey-jr-chris-evans-share-special-diwali-message-for-fans) | **Confirmed official promotion** introducing the December 17 India theatrical date. About **40 seconds according to reporting**, with Robert Downey Jr. and Chris Evans in a Diwali greeting. No direct timecode audit or confirmed novel film shots; not a newly established theatrical trailer. |
+| **Jack in the Box / Marvel Studios cross-promotion** | **Announced 2026-10-27**; product available **2026-11-05** | [Jack in the Box official October 27 press release](https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Prepares-for-Marvel-Studios-Avengers-Doomsday-With-a-Dipping-Experience-Built-for-Assembling/default.aspx) | **Confirmed merchandise/campaign**, including eight blind-bag collectible magnets. Secondary articles describe social video, but an original video URL and unique film scenes were not independently verified. |
+
+**Comparison against October 23–25 assets:** The October 28 cast message is a distinct regional marketing release, while the October 27 partner promotion is a merchandise campaign. Neither has independently proven **new, unique in-film footage** relative to the already cataloged MLB preview, Marvel's October 25 short edit or Disney's hosted trailer/special-look assets. Do not infer timecodes, Doom voice lines or plot reveals from text-only coverage. See [the dated October 28 research entry](../news/2026-10-28.md).
 
 ## Verified / sourced promotions
 
