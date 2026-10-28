@@ -1,6 +1,8 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-10-26. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-10-28. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+**Verified regional release update (2026-10-28):** [Marvel India’s official October 28 announcement](https://x.com/Marvel_India/status/2115315582094692356) gives **December 17, 2026** for **India**, with English, Hindi, Tamil and Telugu showings; [The Hollywood Reporter India (October 28)](https://www.hollywoodreporterindia.com/features/insight/avengers-doomsday-set-for-early-india-release-robert-downey-jr-chris-evans-share-special-diwali-message-for-fans) corroborates the regional announcement. The **U.S. date remains December 18, 2026** on [Disney's official movie page](https://movies.disney.com/avengers-doomsday). This is a **regional** date announcement, not a U.S. or global date change. The accompanying Downey/Evans Diwali greeting is official marketing, not proof of Doom's comic origins or any new narrative sequence.
 
 ## Confirmed production and release facts
 
