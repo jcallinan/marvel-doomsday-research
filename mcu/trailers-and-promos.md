@@ -1,6 +1,15 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-10-28. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-10-29. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## Newly verified regional marketing — October 28–29, 2026
+
+| Asset | Original publisher date | Official video / announcement page | Footage novelty and evidence status |
+|---|---|---|---|
+| **Marvel Japan: Koji Mukai Avengers ambassador interview** | **2026-10-28** | [Marvel Japan's official announcement and embedded interview](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261028_01) | **Confirmed new Japanese promotional interview and fan-event announcement**; celebrity commentary about Doom's motivation is **personal speculation**, not a script disclosure. The official page hosts a video, but its runtime and unique film shots were **not** independently established. |
+| **Marvel Japan: localized World Series crossover feature** | **2026-10-29 Japanese publication**; underlying U.S. promotion **2026-10-23** | [Marvel Japan official article with embedded clip](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261029_01); [MLB original analysis](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) | **Confirmed new Japanese distribution/localization**, **NOT established as new worldwide cinematic footage**. The publisher describes Reed's pitch, the MLB players, Doom over the stadium, and Steve/Thor/Ant-Man/Sam Wilson elements already reported in prior October promotions. No independently confirmed new film frames or shot timecodes. |
+
+**Licensed promotional design, not video:** [Hot Toys/Sideshow's Sentinel Jumbo Sofvi collectible](https://www.sideshow.com/collectibles/marvel-sentinel-jumbo-sofvi-hot-toys-915775), announced October 28, presents detailed Sentinel imagery and a Doom miniature. This is **licensed prototype merchandise**, not a film still or independent new clip. See [October 29 research entry](../news/2026-10-29.md).
 
 ## New items checked October 28, 2026
 
