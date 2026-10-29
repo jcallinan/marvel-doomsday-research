@@ -2,11 +2,15 @@
 
 July 25, 2026: Disney Comic-Con announcement. September 30, 2026: Disney+ official film guide. October 25, 2026: initial repository fact check. December 18, 2026: scheduled theatrical release.
 
+**Earlier regional announcement (backfilled October 29):** [Disney UK's July 27, 2026 press release](https://press.disney.co.uk/news/marvel-studios-captivates-san-diego-comic-con-with-exclusive-footage,-surprise-appearances-and-major-announcements-during-showcase-led-by-kevin-feige) scheduled UK cinemas for **2026-12-16**; it is **not** a new October release-date change.
+
 ## October 2026 release and promotion checkpoints
 
 - **2026-10-23:** MLB World Series Game 1 aired an official *Doomsday* crossover preview; MLB published [its analysis October 24](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series).
 - **2026-10-25:** Marvel's [official social marketing clip](https://x.com/Marvel/status/2114144910316298623) promoted the heroes standing together. Unique footage remains unverified.
 - **2026-10-27:** Jack in the Box [announced a licensed Marvel *Doomsday* promotion](https://investors.jackinthebox.com/news/news-details/2026/Jack-in-the-Box-Prepares-for-Marvel-Studios-Avengers-Doomsday-With-a-Dipping-Experience-Built-for-Assembling/default.aspx); limited-time product launch scheduled for **2026-11-05**.
+- **2026-10-28:** [Marvel Japan announced](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261028_01) Koji Mukai as a new Japanese Avengers promotional ambassador and released an **interview**, without verified new movie footage. [Hot Toys/Sideshow's Sentinel product announcement](https://www.sideshow.com/collectibles/marvel-sentinel-jumbo-sofvi-hot-toys-915775) also appeared in [October 28 reporting](https://www.toyark.com/2026/10/28/avengers-doomsday-hot-toys-sentinel-jumbo-sofvi-figure-601747); **prototype merchandise**, not a movie-scene confirmation. [*Captain America* #16](https://comicpreviews.com/series/captain-america-2025) was released: comic-canon Doom/Mephisto developments, not movie plot evidence.
+- **2026-10-29:** [Marvel Japan published a localized MLB crossover feature](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261029_01). The described imagery matches **October 23–25 existing promos**; no novel worldwide film footage verified. [Japan's official movie page](https://marvel.disney.co.jp/movie/avengers-doomsday) maintains **2026-12-18**.
 - **2026-10-28:** [Marvel India announced](https://x.com/Marvel_India/status/2115315582094692356) **2026-12-17 in India**, plus a Downey/Evans Diwali greeting. The **U.S. 2026-12-18 date is unchanged**, per [Disney](https://movies.disney.com/avengers-doomsday). Film footage in the greeting was not independently frame-logged.
 
 **Editorial note:** Keep event dates separate from when this archive indexed an older event. A partner-branded promotion does not certify film plot details.
