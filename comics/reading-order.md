@@ -15,5 +15,6 @@ This is a starting guide, **not** a complete appearance database. Publication or
 | 9 | *Secret Wars* #1–9 (2015–16) | Battleworld and God Emperor Doom |
 | 10 | *Infamous Iron Man* #1–12 (2016–17) | Doom's attempted reinvention |
 | 11 | *One World Under Doom* (2025) | Modern global-scale Doom narrative |
+| 12 | *Captain America* (2025 series) #16 (on sale October 28, 2026) | Steve Rogers/Doom vs. Mephisto; mystical bargains and Doom's ambitions. [Spoiler-aware issue spotlight](storylines/captain-america-hells-angel-2026.md). |
 
-See [storyline guides](storylines/) and [bibliography](../sources/bibliography.md). The 1984 and 2015 *Secret Wars* events are different works.
+See [storyline guides](storylines/) and [bibliography](../sources/bibliography.md). The 1984 and 2015 *Secret Wars* events are different works. The October 2026 *Captain America* issue is **contemporary comic canon**, not an *Avengers: Doomsday* adaptation confirmation.
