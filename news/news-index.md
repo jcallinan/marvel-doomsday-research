@@ -2,6 +2,8 @@
 
 This directory tracks **dated, sourced** developments and clearly labeled theories, not repetitive rumor aggregation.
 
+- **[2026-10-29 — Japan promo localization, Sentinel figure and *Captain America* #16](2026-10-29.md):** October 28 Japan ambassador interview and Hot Toys' licensed Sentinel merchandise; October 29 localized Japanese MLB video (not verified unique movie footage); October 28 comic issue "Hell's Angel" climax; UK December 16 release date from an **older July 27 Disney UK press release**, newly indexed. No warranted movie-theory confidence change.
+
 - **[2026-10-28 — India release date, Diwali message, and Oct. 27 campaign backfill](2026-10-28.md):** Marvel India officially announced a **December 17 India theatrical opening**, distinct from the unchanged U.S. **December 18** date; a cast Diwali message was published October 28. Also indexes Jack in the Box's **October 27** official cross-promotion, launching November 5. Neither provides confirmed new plot mechanics.
 
 - **[2026-10-27 — Sandra Hüller casting-report backfill and source audit](2026-10-27.md):** An October 23 trade-reported cameo (covered again October 26) is newly indexed. Character identity remains unknown; Cynthia von Doom and Latverian witch links are theories. **October 27 is the archive review date, not the original event date.**
