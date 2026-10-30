@@ -1,6 +1,10 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-10-29. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-10-30. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## Professor X / Patrick Stewart — October 29–30, 2026
+
+**CONFIRMED:** Marvel Studios mourned Sir Patrick Stewart after his **October 28 death** (publicly announced **October 29**) and identified *Avengers: Doomsday* as his **final onscreen appearance** playing Professor Charles Xavier. His participation in the film was already publicly confirmed in **2025**; this is **not** a new casting announcement. See [Variety's October 29–30 Marvel tribute coverage](https://au.variety.com/2026/film/global/patrick-stewart-death-marvel-kevin-feige-tributes-x-men-42099/) and [October 30 final-role confirmation](https://au.variety.com/2026/film/news/patrick-stewart-last-movie-role-avengers-doomsday-42112). His passing does **not** confirm Xavier's film fate, any script edit, reshoots, a studio dedication, or a Doom/Xavier plot connection. [October 30 research entry](../news/2026-10-30.md).
 
 **Verified regional release update (2026-10-28):** [Marvel India’s official October 28 announcement](https://x.com/Marvel_India/status/2115315582094692356) gives **December 17, 2026** for **India**, with English, Hindi, Tamil and Telugu showings; [The Hollywood Reporter India (October 28)](https://www.hollywoodreporterindia.com/features/insight/avengers-doomsday-set-for-early-india-release-robert-downey-jr-chris-evans-share-special-diwali-message-for-fans) corroborates the regional announcement. The **U.S. date remains December 18, 2026** on [Disney's official movie page](https://movies.disney.com/avengers-doomsday). This is a **regional** date announcement, not a U.S. or global date change. The accompanying Downey/Evans Diwali greeting is official marketing, not proof of Doom's comic origins or any new narrative sequence.
 
