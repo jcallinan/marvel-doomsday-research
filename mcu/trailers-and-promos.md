@@ -1,6 +1,15 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-10-29. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-10-30. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## October 29, 2026 — new theatrical marketing cataloged October 30
+
+| Asset | Original release/coverage date | Official source | Assessment |
+|---|---|---|---|
+| **Doctor Doom popcorn-bucket video (0:35)** | **2026-10-29**, per [dated media reporting](https://comicbookmovie.com/avengers/avengers-doomsday/update-avengers-doomsday-posters-spotlight-doctor-doom-and-his-allies-theater-merch-officially-revealed-a230721); Disney webpage itself gives no upload timestamp | [Disney official 35-second video](https://video.disney.com/watch/avengers-doomsday-popcorn-bucket-65efec964a8ca19e20fbf4d1); [Disney Marvel video index with duration](https://video.disney.com/marvel) | **CONFIRMED studio promotional video**, not a verified new movie scene. A Doom-themed concession collectible is marketed. No directly reviewed shot timecodes, newly heard in-film dialogue or independently proven exclusive theatrical footage. |
+| **Premium format Doom posters / partner artwork** | **2026-10-29 rollout** ([contemporary report](https://comicbookmovie.com/avengers/avengers-doomsday/update-avengers-doomsday-posters-spotlight-doctor-doom-and-his-allies-theater-merch-officially-revealed-a230721)); [October 30 follow-up](https://getyourcomicon.co.uk/blog/2026/10/30/marvel-studios-debuts-seven-new-doom-themed-posters-for-avengers-doomsday/) | [Disney official movie art gallery](https://movies.disney.com/avengers-doomsday); partner designs described by linked reporting | **Artwork, not a video or film screenshot.** Reports differ on count of posters (six/seven in coverage); do not claim a verified exact set size. Green energy, mask and hooded figures are promotional design, not a verified magical plot scene. |
+
+**Compared with earlier assets:** The October 29 popcorn-bucket ad is a **distinct official commercial**, not a replacement for or new footage from the previously indexed 2:25 trailer, 2:09 special look, October 23 MLB preview, or October 28 India greeting. The new poster artwork is not footage. No direct frame-level novelty or timestamps are claimed. [October 30 checkpoint](../news/2026-10-30.md).
 
 ## Newly verified regional marketing — October 28–29, 2026
 
