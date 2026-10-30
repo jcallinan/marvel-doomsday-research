@@ -13,6 +13,9 @@ July 25, 2026: Disney Comic-Con announcement. September 30, 2026: Disney+ offici
 - **2026-10-29:** [Marvel Japan published a localized MLB crossover feature](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261029_01). The described imagery matches **October 23–25 existing promos**; no novel worldwide film footage verified. [Japan's official movie page](https://marvel.disney.co.jp/movie/avengers-doomsday) maintains **2026-12-18**.
 - **2026-10-28:** [Marvel India announced](https://x.com/Marvel_India/status/2115315582094692356) **2026-12-17 in India**, plus a Downey/Evans Diwali greeting. The **U.S. 2026-12-18 date is unchanged**, per [Disney](https://movies.disney.com/avengers-doomsday). Film footage in the greeting was not independently frame-logged.
 
+- **2026-10-28–30 (event vs. reporting dates):** Sir Patrick Stewart died October 28; the news and Marvel Studios tribute appeared October 29; [Variety's October 30 report](https://au.variety.com/2026/film/news/patrick-stewart-last-movie-role-avengers-doomsday-42112) confirmed *Doomsday* as his final onscreen appearance as Professor X. This does not disclose the character's fate.
+- **2026-10-29:** Marvel/Disney issued the [Doom popcorn-container promotion](https://video.disney.com/watch/avengers-doomsday-popcorn-bucket-65efec964a8ca19e20fbf4d1) (0:35 per [Disney's index](https://video.disney.com/marvel)) and premium-format artwork, as dated in [contemporary coverage](https://comicbookmovie.com/avengers/avengers-doomsday/update-avengers-doomsday-posters-spotlight-doctor-doom-and-his-allies-theater-merch-officially-revealed-a230721). Both were archived **October 30**; neither proves new movie footage or a plot point.
+
 **Editorial note:** Keep event dates separate from when this archive indexed an older event. A partner-branded promotion does not certify film plot details.
 
 ## Research notes
