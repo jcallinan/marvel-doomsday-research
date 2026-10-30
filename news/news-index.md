@@ -2,6 +2,8 @@
 
 This directory tracks **dated, sourced** developments and clearly labeled theories, not repetitive rumor aggregation.
 
+- **[2026-10-30 — Patrick Stewart/Professor X tribute, October 29 popcorn clip, Doom posters](2026-10-30.md):** October 28 death and October 29 studio tribute; October 30 reporting confirms Stewart's final film appearance. Newly cataloged October 29 Disney concession-promo clip and premium-format artwork. No verified new in-film footage or changed Doom theories. **October 30 is the archive date; event dates are identified separately.**
+
 - **[2026-10-29 — Japan promo localization, Sentinel figure and *Captain America* #16](2026-10-29.md):** October 28 Japan ambassador interview and Hot Toys' licensed Sentinel merchandise; October 29 localized Japanese MLB video (not verified unique movie footage); October 28 comic issue "Hell's Angel" climax; UK December 16 release date from an **older July 27 Disney UK press release**, newly indexed. No warranted movie-theory confidence change.
 
 - **[2026-10-28 — India release date, Diwali message, and Oct. 27 campaign backfill](2026-10-28.md):** Marvel India officially announced a **December 17 India theatrical opening**, distinct from the unchanged U.S. **December 18** date; a cast Diwali message was published October 28. Also indexes Jack in the Box's **October 27** official cross-promotion, launching November 5. Neither provides confirmed new plot mechanics.
