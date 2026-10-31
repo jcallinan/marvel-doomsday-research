@@ -1,6 +1,16 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-10-30. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-10-31. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## October 30 official ticket spot — checked October 31
+
+| Asset | Original publisher date | Official video / corroborating source | Novelty assessment |
+|---|---|---|---|
+| **Marvel Studios cast ticket-sales social video** | **2026-10-30** | [Marvel Studios original post](https://x.com/MarvelStudios/status/2116228641843802258), embedded and discussed by [Omelete October 30](https://www.omelete.co/movies/avengers-doctor-doom-gets-a-new-teaser-showing-doom-on-his-throne-watch-it) | **CONFIRMED official new promotional post. REPORTED**: Danny Ramirez speaks, Anthony Mackie and Hayley Atwell interrupt, and Doctor Doom is briefly shown seated on a throne. **NOT independently verified:** whether the throne image is an unprecedented theatrical frame. No direct playback, run time or shot timecodes available here. This is not a verified new full trailer or plot reveal. |
+| **Infinity Vision cast/ticket promo reporting** | **2026-10-30** | [Comic Basics, October 30](https://www.comicbasics.com/new-avengers-doomsday-promo-urges-fans-to-grab-infinity-vision-tickets-now/) | Reports Chris Evans, Hayley Atwell, Anthony Mackie, Simu Liu and Danny Ramirez in a ticket-marketing edit. **Possibly same campaign asset**; original independent upload ID not established. **Do not count as separate new film footage without comparison.** |
+
+**Comic interpretation:** Doom sitting on a throne evokes Latverian sovereignty in *Fantastic Four* and imperial imagery in *Secret Wars* (2015), but establishes **neither God Emperor Doom nor Battleworld**. The October 30 official post is **distinct from the October 29 Disney popcorn-bucket video**, while any uniquely new in-film shot remains unverified. Source dates, archive date and limitations: [October 31 research note](../news/2026-10-31.md).
+
 
 ## October 29, 2026 — new theatrical marketing cataloged October 30
 
