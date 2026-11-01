@@ -1,6 +1,14 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-10-30. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-11-01. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## Regional release-date source audit — November 1, 2026 (older announcements, not new changes)
+
+- **Australia — December 17, 2026 (CONFIRMED Disney-distributor source):** [Disney+ Australia published its official film guide October 5, 2026](https://www.disneyplus.com/en-au/explore/articles/avengers-doomsday), explicitly giving an Australian cinema opening **December 17**. This was **newly indexed November 1**, not newly announced.
+- **South Korea — December 16, 2026 (REPORTED by local press, direct local Disney date page not independently inspected):** [Korea JoongAng Daily's October 29, 2026 report](https://www.koreajoongangdaily.com/entertainment/avengers-doomsday-celebrations-bring-marvel-run-and-drone-show-to-korea/12945206) attributes publicity to Walt Disney Company Korea and says Korean theaters open **December 16**; [The Korea Times October 26 article](https://www.koreatimes.co.kr/lifestyle/people-events/20261026/seoul-to-light-up-han-river-with-2000-drone-marvel-show-on-halloween) also gives the date. Retain **REPORTED** classification until an original Korean distributor opening-date statement is reviewed.
+- **No U.S. change:** [Disney's U.S. page](https://movies.disney.com/avengers-doomsday) still specifies **December 18, 2026**. Dates are market-specific, not a contradictory global rescheduling announcement. Earlier distributor-confirmed **UK December 16, India December 17 and Japan December 18** entries remain valid under their original source dates.
+
+The [October 31 Seoul municipal/Disney Korea drone show](../news/2026-11-01.md) and [Robert Downey Jr./Pedro Pascal actor Halloween clip](../mcu/trailers-and-promos.md) are **promotional**, not newly verified film scenes or new on-screen casting roles.
 
 ## Professor X / Patrick Stewart — October 29–30, 2026
 
