@@ -19,6 +19,10 @@ July 25, 2026: Disney Comic-Con announcement. September 30, 2026: Disney+ offici
 
 **Editorial note:** Keep event dates separate from when this archive indexed an older event. A partner-branded promotion does not certify film plot details.
 
+- **2026-10-31:** Seoul Metropolitan Government staged the 2,000-drone [Marvel Special in collaboration with Disney Korea](https://www.youtube.com/watch?v=6KNlqWk_Kbw) and [published the city 4K video](https://allsnsrank.com/youtube/video/6KNlqWk_Kbw). The original organizer's video description includes a **Doctor Doom chapter at 10:35**; [November 1 press coverage](https://www.ibtimes.co.uk/robert-downey-jr-iron-man-doctor-doom-seoul-drone-show-1829309) described Thanos → Iron Man → Doom imagery. **This is drone art, not movie footage**. The event was announced weeks earlier; the performance/upload date is October 31, not November 1.
+- **2026-10-31:** Robert Downey Jr. posted a [Halloween costume-swap reel with Pedro Pascal](https://www.instagram.com/reel/DfL1wYpByqM/); [November 1 reporting](https://indianexpress.com/article/entertainment/hollywood/robert-downey-jr-pedro-pascal-cross-dress-as-mister-fantastic-doctor-doom-on-halloween-10945665/) describes them exchanging Reed/Doom costume looks. **Actor promotion, not in-character theatrical footage or identity-swap proof.**
+- **Older regional dates archived November 1:** [Disney Australia October 5](https://www.disneyplus.com/en-au/explore/articles/avengers-doomsday) confirms **Australia December 17**; [October 29 Korea JoongAng reporting attributed to Disney Korea](https://www.koreajoongangdaily.com/entertainment/avengers-doomsday-celebrations-bring-marvel-run-and-drone-show-to-korea/12945206) reports **South Korea December 16** (direct local Disney date page not inspected). **Neither was a November 1 change**; the U.S. date remains **December 18**.
+
 ## Research notes
 
 This is a curated starting entry. Add precise comic issue citations, credited creators, publication dates, and counterexamples through pull requests. Movie parallels are interpretations unless backed by an official film source.
