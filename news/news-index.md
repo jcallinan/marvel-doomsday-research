@@ -2,6 +2,8 @@
 
 This directory tracks **dated, sourced** developments and clearly labeled theories, not repetitive rumor aggregation.
 
+- **[2026-11-01 — October 31 official Seoul Marvel drone video and Downey/Pascal Halloween clip](2026-11-01.md):** The **October 31** city/Disney Korea collaboration was recorded in an official 4K upload with published chapter cues (Doom around 10:35); a separate **October 31** actor-posted Halloween costume-swap reel received **November 1** reporting. Older Australia/South Korea regional schedules and four undated Disney-hosted clips were backfilled. **November 1 is the archive check, not the event date; none is new theatrical movie footage.**
+
 - **[2026-10-31 — October 30 cast/ticket spot with reported Doctor Doom throne image](2026-10-31.md):** A verified October 30 Marvel Studios post, with the brief throne visual described by Omelete; frame novelty and timecodes remain unverified. Also backfills a late-October Variety charity theater pin. **October 31 is the archive check date, not the video release date.**
 
 - **[2026-10-30 — Patrick Stewart/Professor X tribute, October 29 popcorn clip, Doom posters](2026-10-30.md):** October 28 death and October 29 studio tribute; October 30 reporting confirms Stewart's final film appearance. Newly cataloged October 29 Disney concession-promo clip and premium-format artwork. No verified new in-film footage or changed Doom theories. **October 30 is the archive date; event dates are identified separately.**
