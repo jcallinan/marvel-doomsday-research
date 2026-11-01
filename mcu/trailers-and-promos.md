@@ -1,6 +1,26 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-10-31. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-01. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## October 31 Seoul Marvel drone show and Halloween social video — reviewed November 1
+
+| Asset | Original event or post date | Official link / sourcing | Assessment versus prior video entries |
+|---|---|---|---|
+| **Seoul "Marvel Special" 2,000-drone performance; official 4K video** | **October 31, 2026** (performance and organizer upload). [Earlier August 11 Disney Korea partnership notice](https://en.sedaily.com/society/2026/08/11/marvel-heroes-take-to-han-river-sky-in-record-2000-drone). | [Seoul Metropolitan Government's official long YouTube upload](https://www.youtube.com/watch?v=6KNlqWk_Kbw); [short edit](https://www.youtube.com/watch?v=_CaIeTk93SI); [publisher-video metadata and chapter cues](https://allsnsrank.com/youtube/video/6KNlqWk_Kbw); [November 1 reporting](https://www.ibtimes.co.uk/robert-downey-jr-iron-man-doctor-doom-seoul-drone-show-1829309) | **CONFIRMED new original city promotional recording, NOT movie footage. REPORTED** Thanos → Iron Man → Doctor Doom animation. **Official-description chapters (not frame-verified):** Thanos 8:57, Iron Man music 9:27, snap 9:50, Doom 10:35. Distinct from October 23 MLB ad, October 29 concession clip, and October 30 ticket spot. |
+| **Robert Downey Jr. and Pedro Pascal costume swap** | **Actor post October 31**, [November 1 reporting](https://indianexpress.com/article/entertainment/hollywood/robert-downey-jr-pedro-pascal-cross-dress-as-mister-fantastic-doctor-doom-on-halloween-10945665/) | [Original actor Instagram reel](https://www.instagram.com/reel/DfL1wYpByqM/), embedded in Indian Express; [Cinema Express](https://www.cinemaexpress.com/english/news/2026/Nov/01/robert-downey-jr-pedro-pascal-exchange-characters-for-halloween-ahead-of-avengers-doomsday) | **CONFIRMED actor-published Halloween publicity, NOT theatrical footage.** Downey wears Reed's blue FF suit; Pascal wears Doom's hood and mask. Original video playback/precise timecodes not independently accessible. No verified story swap, cameo or leaked scene. |
+
+**Comic connections (THEORY only):** The Thanos/Tony/Doom sequence juxtaposes major MCU eras; *Infamous Iron Man* #1 (2016) has **Victor von Doom** adopt Iron Man iconography ([Marvel's comic entry](https://www.marvel.com/comics/issue/61980/infamous_iron_man_2016_1_ribic_variant)). Reed/Doom rivalry begins in *Fantastic Four* #5 (1962). Neither promotion implies Tony Stark and Doom are the same person or that an actual film identity swap occurs. See [November 1 checkpoint](../news/2026-11-01.md).
+
+## Other official Disney clips backfilled November 1 — original upload dates UNKNOWN
+
+Disney's [official film-page video grid](https://movies.disney.com/avengers-doomsday) includes these separate **publisher-hosted** assets beyond the six previously indexed items. The page gives runtimes but **not original upload dates or shot-by-shot transcripts**. They were **discovered in the catalog on November 1**, not verified as releases that day. Do not infer fresh footage, unique scenes or plot from the runtimes or reused titles.
+
+| Disney-listed duration | Publisher-hosted asset | Evidence limit |
+|---|---|---|
+| **1:04** | [Only in Theaters December 18, 2026 — 1:04](https://video.disney.com/watch/avengers-doomsday-only-in-theaters-december-18-2026-64848fb629d56deacd351fcc) | Disney lists duration; release date/unique frames unverified |
+| **1:08** | [Only in Theaters December 18, 2026 — 1:08](https://video.disney.com/watch/avengers-doomsday-only-in-theaters-december-18-2026-647bf896389e04877a350a16) | Different stable Disney asset URL; scene comparisons pending |
+| **1:21** | [Only in Theaters December 18, 2026 — 1:21](https://video.disney.com/watch/avengers-doomsday-only-in-theaters-december-18-2026-6472ec3c1f1e90af801507e5) | Different stable Disney asset URL; scene comparisons pending |
+| **1:20** | [Only in Theaters December 18, 2026 — 1:20](https://video.disney.com/watch/avengers-doomsday-only-in-theaters-december-18-2026-646a4be8ec6f9249c13508cb) | Different stable Disney asset URL; scene comparisons pending |
 
 ## October 30 official ticket spot — checked October 31
 
