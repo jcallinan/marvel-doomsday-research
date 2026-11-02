@@ -16,5 +16,6 @@ This is a starting guide, **not** a complete appearance database. Publication or
 | 10 | *Infamous Iron Man* #1–12 (2016–17) | Doom's attempted reinvention |
 | 11 | *One World Under Doom* (2025) | Modern global-scale Doom narrative |
 | 12 | *Captain America* (2025 series) #16 (on sale October 28, 2026) | Steve Rogers/Doom vs. Mephisto; mystical bargains and Doom's ambitions. [Spoiler-aware issue spotlight](storylines/captain-america-hells-angel-2026.md). |
+| 13 | *Challenges of Doom* one-shots (July 2026–March 2027, announced schedule) | Doom-centric character studies: Reed, Spider-Man, Doctor Strange (Nov. 4 **upcoming**), Magneto and Namor. [Issue-by-issue source and theory audit](storylines/challenges-of-doom-2026.md). |
 
-See [storyline guides](storylines/) and [bibliography](../sources/bibliography.md). The 1984 and 2015 *Secret Wars* events are different works. The October 2026 *Captain America* issue is **contemporary comic canon**, not an *Avengers: Doomsday* adaptation confirmation.
+See [storyline guides](storylines/) and [bibliography](../sources/bibliography.md). The 1984 and 2015 *Secret Wars* events are different works. The October 2026 *Captain America* issue is **contemporary comic canon**, not an *Avengers: Doomsday* adaptation confirmation. *Challenges of Doom* was announced April 16, 2026; its November 4 Doctor Strange issue is **upcoming as of the November 2 archive check**, not a confirmed adaptation. This table is a thematic introductory reading path, not strict chronology.
