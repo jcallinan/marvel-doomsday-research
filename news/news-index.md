@@ -2,6 +2,8 @@
 
 This directory tracks **dated, sourced** developments and clearly labeled theories, not repetitive rumor aggregation.
 
+- **[2026-11-02 — no verified new Doomsday footage; Challenges of Doom comic preview research](2026-11-02.md):** The **November 2 archive check** found no substantively new official trailer or plot announcement; November 2 articles recycling October 25/31 clips are not newly released footage. Added [the five-part Challenges of Doom comic dossier](../comics/storylines/challenges-of-doom-2026.md), originally announced **April 16**, with an **October 30** preview for the **upcoming November 4** Doctor Strange one-shot. Existing MCU theories unchanged; older source dates are not mislabeled as November 2 events.
+
 - **[2026-11-01 — October 31 official Seoul Marvel drone video and Downey/Pascal Halloween clip](2026-11-01.md):** The **October 31** city/Disney Korea collaboration was recorded in an official 4K upload with published chapter cues (Doom around 10:35); a separate **October 31** actor-posted Halloween costume-swap reel received **November 1** reporting. Older Australia/South Korea regional schedules and four undated Disney-hosted clips were backfilled. **November 1 is the archive check, not the event date; none is new theatrical movie footage.**
 
 - **[2026-10-31 — October 30 cast/ticket spot with reported Doctor Doom throne image](2026-10-31.md):** A verified October 30 Marvel Studios post, with the brief throne visual described by Omelete; frame novelty and timecodes remain unverified. Also backfills a late-October Variety charity theater pin. **October 31 is the archive check date, not the video release date.**
