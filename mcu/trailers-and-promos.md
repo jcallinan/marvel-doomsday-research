@@ -1,6 +1,19 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-01. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-03. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 3, 2026 — official Marvel Japan dubbing and voice-casting videos
+
+**Archive checked: 2026-11-03. The original Marvel Japan announcement is dated November 3.** This is a new **regional audio/localization and actor-message release**, distinct from the earlier October 23 MLB crossover, October 30 ticket spot and October 31 Seoul show. The previous Disney trailers are comparison baselines; **a visually new film frame has not been demonstrated**.
+
+| Video | Official original URL / release evidence | Confirmed novelty / verification boundary |
+|---|---|---|
+| **Japanese-dubbed *Doomsday* trailer** | [Marvel Japan official trailer](https://marvel.disney.co.jp/avengersdoomsday_trailers_dubbing_hd_2398p_stereo_digital); [November 3 Disney/Marvel announcement](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261103_01) | **CONFIRMED** newly publicized Japanese trailer, with Toshiyuki Morikawa dubbing **Doctor Doom**. The publisher describes Doom countering Thor's attack, but **no direct frame/timecode comparison** confirms this imagery is exclusive to the localized version. Duration, new English-dialogue content and exact timestamps not verified. |
+| **Robert Downey Jr. Japanese Doom dubbing announcement** | [Marvel Japan official video](https://marvel.disney.co.jp/avengersdoomsday_japandoomvoicetalentannounce_hd_2398p_stereo); [November 3 announcement](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261103_01) | **CONFIRMED new actor-message marketing video.** Downey announces Morikawa's role and honors Keiji Fujiwara, former Japanese voice of Tony Stark. **Not movie footage;** no film plot fact or timestamped visual analysis claimed. |
+
+**Adjacent promotional art:** Marvel Japan's November 3 release also features INFINITY VISION, Dolby Cinema, 4DX and SCREENX graphics. Similar premium-format Doom posters were already documented in the [October 29/30 rollout](../news/2026-10-30.md). This regional publisher feature **does not prove a brand-new worldwide set**. Costume/hooded-figure iconography is illustrative, not evidence of an in-film ritual or unnamed characters.
+
+**COMIC CONNECTION (THEORY only):** Victor von Doom takes over an Iron Man identity in [*Infamous Iron Man* #1 (2016)](https://www.marvel.com/comics/issue/61980/infamous_iron_man_2016_1_ribic_variant), but the real-world Fujiwara/Morikawa voice-acting succession does **not** show Tony Stark is secretly Doom. See [November 3 checkpoint](../news/2026-11-03.md).
 
 ## October 31 Seoul Marvel drone show and Halloween social video — reviewed November 1
 
