@@ -1,6 +1,12 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-11-01. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-11-03. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## November 3, 2026 — official Japanese Doctor Doom dubbing
+
+**CONFIRMED November 3 original source:** [Marvel Japan's official announcement](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261103_01) names **Toshiyuki Morikawa (森川智之)** the **Japanese voice actor** for **Robert Downey Jr.'s Doctor Doom**. The accompanying [Japanese-dubbed trailer](https://marvel.disney.co.jp/avengersdoomsday_trailers_dubbing_hd_2398p_stereo_digital) and [Downey voice-casting message](https://marvel.disney.co.jp/avengersdoomsday_japandoomvoicetalentannounce_hd_2398p_stereo) are official regionally released promotion. Morikawa's casting is **localization**, not a change to the on-screen actor, a new U.S. cast member, or proof of a Tony Stark/Doctor Doom identity reveal. Downey's on-record video honors the late **Keiji Fujiwara**, who voiced his Tony Stark in Japan.
+
+The same primary source features Japan's planned premium-format presentations—INFINITY VISION, Dolby Cinema, 4DX and SCREENX—with Doom-themed posters. Similar premium-format artwork was reported as early as **October 29**, so its November 3 **Japan press-page date is not proof of its first global release**. Localized trailer footage has **not** been verified as showing a new cinematic shot over the previously cataloged trailer; [video catalog](trailers-and-promos.md). [U.S. release remains December 18](https://movies.disney.com/avengers-doomsday). No *Secret Wars*, Battleworld or Thor confrontation outcome is established by these marketing descriptions.
 
 ## Regional release-date source audit — November 1, 2026 (older announcements, not new changes)
 
