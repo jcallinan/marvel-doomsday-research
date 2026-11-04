@@ -1,6 +1,21 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-03. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-04. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 4, 2026 — official partner ads and previously announced WWE event
+
+**Archive check: November 4. Original source dates: November 4 for Dunkin/KFC; November 3 for Disney/WWE.** These assets are **new partner advertising**, not proven new scenes from the movie.
+
+| Asset | Official primary evidence / original date | Newness and evidence boundaries |
+|---|---|---|
+| **Dunkin: “MUNCHKIN Incursion”, Gambit + H.E.R.B.I.E.** | [Original Dunkin November 4 press release](https://news.dunkindonuts.com/news/doomsday-has-arrived-and-even-super-heroes-run-on-dunkinR-as-an-epic-new-campaign-arrives-nationwide) links to [official YouTube commercial](https://www.youtube.com/watch?v=d0IVKhzkqtE). | **CONFIRMED new November 4 in-character branded commercial** with Channing Tatum as Gambit and H.E.R.B.I.E. A playful fictional “incursion” involving MUNCHKINS is **advertising**, not confirmed cinematic plot or new theatrical footage. **No direct frame-level playback or timecodes** in this review; description comes from Dunkin and [November 4 PEOPLE interview](https://people.com/channing-tatum-stars-in-new-dunkin-video-as-avengers-doomsday-character-exclusive-12208214). |
+| **KFC: “Brings the Doom” international campaign with 15s / 30s spots** | [KFC’s own November 4 announcement](https://global.kfc.com/press-releases/kfc-brings-the-doom-new-marvel-inspired-menu-lands-ahead-of-marvel-studios-avengers-doomsday) documents the **15/30-second commercial concept**; no verified separate official video URL. | **CONFIRMED new ad campaign and publisher-described imagery**: Doom surveys a battle-devastated New York while one KFC stands. **NOT independently viewed at frame level**; exact sequences and timestamps unavailable. This is fictional ad staging, **not** evidence that the Avengers lose or New York is destroyed in the movie. Select markets launch November 9, U.S./India/China excluded. |
+| **Disney and WWE: *Doomsday*-themed Worlds Collide** | [Joint Disney/WWE original announcement November 3](https://www.wwe.com/article/wwe-walt-disney-company-john-cena-classic-avenger-doomsday-worlds-collide), archived **November 4**. | **CONFIRMED planned promotion/event** on **December 15**, with wrestling and branded products. **No newly issued film clip or in-film John Cena casting** established. December 14 is the separate John Cena Classic. |
+
+**Comic comparison (THEORY, not a verified adaptation):** “Incursion” recalls Hickman’s *New Avengers* (2013) and *Secret Wars* (2015), but a pastry commercial does not establish the movie’s multiverse mechanics. The KFC ad’s victorious-looking Doom evokes conquest/sovereignty imagery; **God Emperor Doom and Battleworld remain unconfirmed**. See [Nov 4 sourced checkpoint](../news/2026-11-04.md).
+
+---
+
 
 ## November 3, 2026 — official Marvel Japan dubbing and voice-casting videos
 
