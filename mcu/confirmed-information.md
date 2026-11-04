@@ -1,6 +1,16 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-11-03. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-11-04. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## November 3–4, 2026 — licensed partner promotions (not proof of film scenes)
+
+**CONFIRMED partner announcement on November 4:** [Dunkin's original official statement](https://news.dunkindonuts.com/news/doomsday-has-arrived-and-even-super-heroes-run-on-dunkinR-as-an-epic-new-campaign-arrives-nationwide) launched [`MUNCHKIN Incursion`, a new sponsored commercial](https://www.youtube.com/watch?v=d0IVKhzkqtE) with **Channing Tatum as Gambit** and **H.E.R.B.I.E.** Its storyline and any in-character encounter are **advertising**, not confirmation of these characters meeting in the feature. A [November 4 PEOPLE interview](https://people.com/channing-tatum-stars-in-new-dunkin-video-as-avengers-doomsday-character-exclusive-12208214) records Tatum's comments on Gambit; do not treat a promotional performance or actor interview as a newly verified scene.
+
+**CONFIRMED KFC November 4 primary announcement:** [KFC global press release](https://global.kfc.com/press-releases/kfc-brings-the-doom-new-marvel-inspired-menu-lands-ahead-of-marvel-studios-avengers-doomsday) details international Doom-themed menus and **15/30-second ad edits** whose creative concept depicts a battle-scarred New York and a surviving KFC. This description is **advertising fiction**, not a confirmed movie outcome. Select markets start **November 9**, and the **United States, India and China are excluded**.
+
+**CONFIRMED Disney/WWE original November 3 announcement, indexed November 4:** [WWE's official joint Disney release](https://www.wwe.com/article/wwe-walt-disney-company-john-cena-classic-avenger-doomsday-worlds-collide) schedules a **Doomsday-themed Worlds Collide** event for **December 15** (distinct from **December 14's John Cena Classic**). No WWE talent is thereby confirmed as a film actor. No new film-footage or plot conclusion follows from the event.
+
+**UNCHANGED release:** [Disney's film listing](https://movies.disney.com/avengers-doomsday) maintains **U.S. December 18, 2026**. No official plot reveal or new theatrical scene verified during this November 4 check. [Sourced daily entry](../news/2026-11-04.md).
 
 ## November 3, 2026 — official Japanese Doctor Doom dubbing
 
