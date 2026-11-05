@@ -1,6 +1,14 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-11-04. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-11-05. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## November 5 research — reported DK synopsis and confirmed Doom & Buster's partner announcement
+
+**REPORTED, not studio-confirmed: expanded synopsis.** [GamesRadar+ reported on November 5](https://www.gamesradar.com/entertainment/marvel-movies/new-avengers-doomsday-synopsis-teases-an-existential-threat-and-the-future-of-the-multiverse/) that a passage attributed via a fan X account to DK's `From Endgame to Doomsday: A Marvel Studios Visual Dictionary` names **Avengers, New Avengers, Wakandans, Fantastic Four, X-Men** and intra-team distrust. [DK/Penguin Random House's official listing](https://www.penguinrandomhouse.com/books/827365/from-endgame-to-doomsday-a-marvel-studios-visual-dictionary-avengers-allies-and-foes-by-liz-marsham/) verifies the **reference book and Nov. 10 U.S. publication**, but **does not include that purported passage**. Do **not** upgrade the new details to `CONFIRMED` until a directly authenticated publisher/book excerpt or Disney statement is located. Disney's [confirmed three-universe existential-threat synopsis](https://movies.disney.com/avengers-doomsday) remains the canonical baseline.
+
+**CONFIRMED licensed partner campaign, original November 4 (archived November 5):** [Dave & Buster's official announcement](https://www.prnewswire.com/news-releases/dave--busters-surrenders-to-doom-introducing-doom--busters-302928815.html) launches the temporary `Doom & Buster's` brand and a fuller **November 16–January 31** arcade takeover with themed games, prizes and collectible Power Cards. Its gameplay/marketing premise is **not feature-film canon, casting confirmation or authenticated new theatrical footage**.
+
+**Checked November 5:** [Disney still lists December 18, 2026 in U.S. theaters](https://movies.disney.com/avengers-doomsday); no confirmed release shift or new cinematic footage. [Sourced Nov. 5 checkpoint](../news/2026-11-05.md).
 
 ## November 3–4, 2026 — licensed partner promotions (not proof of film scenes)
 
