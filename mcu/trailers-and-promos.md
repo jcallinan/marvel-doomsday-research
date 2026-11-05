@@ -1,6 +1,16 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-04. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-05. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 5 archive check — November 4 'Doom & Buster's' licensed activation (no new movie video verified)
+
+**Original primary announcement: November 4, 2026, 08:02 ET; archive check: November 5.** [Dave & Buster's official company-issued press release](https://www.prnewswire.com/news-releases/dave--busters-surrenders-to-doom-introducing-doom--busters-302928815.html) confirms a nationwide Marvel Studios partner campaign temporarily labeled `Doom & Buster's`. Some games began **November 4**; the full themed `Doomsday Zone` promotion is scheduled **November 16, 2026–January 31, 2027** with Doom, Thor and Yelena collectible Power Cards and in-store experiences.
+
+**Classification:** **CONFIRMED partner campaign, not a newly identified film video**. No original commercial/video URL, novel studio film scene, exact screen time or video timestamp could be substantiated from this press release. Arcade takeover rhetoric is **licensed advertising fiction**, not an on-screen conquest or support for a God Emperor Doom plot. See [November 5 sourced checkpoint](../news/2026-11-05.md).
+
+**Fresh-footage audit (November 5):** [Disney's film and video pages](https://movies.disney.com/avengers-doomsday), [Disney Marvel video library](https://video.disney.com/collections/marvel), [Marvel Japan video lineup](https://marvel.disney.co.jp/movie/avengers-doomsday) and [MLB's Oct. 23/24 World Series feature](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) provided no independently authenticated *new* theatrical trailer, MLB spot or cinematic shots after the **Nov. 3 Japan dub** and **Nov. 4 food-chain promotions** already archived. Lack of new proof is not a blanket assertion that no unpublished/uncatalogued video exists.
+
+---
 
 ## November 4, 2026 — official partner ads and previously announced WWE event
 
