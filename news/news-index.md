@@ -1,5 +1,7 @@
 # News index
 
+- **[2026-11-05 — reported DK synopsis, Nov. 4 Doom & Buster's announcement and Doom comics publisher catalog](2026-11-05.md):** **Nov. 5 research/reporting** attributes a five-team, mutual-distrust synopsis to an upcoming DK Marvel Studios reference book; the **publisher verifies the book but not that circulated passage**, so the expanded wording stays **REPORTED**. **Nov. 4 original Dave & Buster's press release** confirms `Doom & Buster's` promotional takeover (full launch Nov. 16); it is newly archived on Nov. 5, **not** a new theatrical clip. Marvel's series catalog lists `Challenges of Doom: Doctor Strange`; final issue contents not read. Film theories and **U.S. Dec. 18** release unchanged.
+
 This directory tracks **dated, sourced** developments and clearly labeled theories, not repetitive rumor aggregation.
 
 - **[2026-11-04 — Gambit/H.E.R.B.I.E. Dunkin spot, KFC Doom ads, WWE crossover and Doctor Strange comic](2026-11-04.md):** **Original November 4** Dunkin in-character promo and Tatum interview, KFC 15/30-second Doom commercial announcement; **original November 3** Disney/WWE December 15 Worlds Collide announcement newly indexed on November 4. *Challenges of Doom: Doctor Strange* #1 is **listed on sale November 4** by retailers, with complete issue contents **not reviewed**. These partner promotions do **not** prove theatrical footage or film plot; **U.S. December 18** unchanged.
