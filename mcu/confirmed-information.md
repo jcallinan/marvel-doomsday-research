@@ -1,6 +1,14 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-11-05. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-11-06. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## November 6 verification — official Jeep Marvel partnership (ad-only) and November 5 studio marketing
+
+**CONFIRMED partner video, original November 6 10:00 ET (reviewed Nov. 6):** [Jeep/Stellantis's primary announcement](https://www.prnewswire.com/news-releases/jeep-brand-takes-adventure-to-marvel-studios-avengers-doomsday-universe-in-epic-finale-of-sweeping-yearlong-global-collaboration-302931380.html) officially links the [`A Jeep 4x4 for Any Universe` commercial](https://www.youtube.com/watch?v=uZjSPSuYY7c) as the final chapter of its Marvel partnership, running in November–December. Its described fictional settings include **Latveria (explicitly called Doctor Doom's nation)**, **Avengers Tower, X-Mansion, Fantastic Four universe**; named heroes are **Captain America, Human Torch, H.E.R.B.I.E., Nightcrawler and the Thing**. Those are **officially described advertisements**, **not evidence that Latveria's onscreen film appearance, named Doomstadt Tower, Battleworld or portal logistics are confirmed feature-film plot**. The video's exact frame timing and novelty versus the theatrical cut were not independently determined. [Dated research](../news/2026-11-06.md).
+
+**CONFIRMED original November 5 studio marketing (reviewed Nov. 6):** [Marvel Studios global-tour announcement](https://x.com/MarvelStudios/status/2118402984933831065), corroborated by [Las Vegas Review-Journal Nov. 5](https://neon.reviewjournal.com/movies/marvel-bringing-its-doomsday-global-tour-to-las-vegas-3345436/), lists nine cities: Las Vegas, São Paulo, Gold Coast, Rome, London, Seoul, Shanghai, Toronto and Los Angeles. **No verified travel dates, venue schedule or cast attendance**; don't mistake the order revealed for established travel chronology.
+
+**As of Nov. 6:** [Disney maintains Dec. 18 U.S. theatrical release](https://movies.disney.com/avengers-doomsday) and its three-universe synopsis. No independently corroborated new theatrical cut, casting addition or story-outcome confirmation. The purported DK synopsis remains **REPORTED**, not upgraded by advertising.
 
 ## November 5 research — reported DK synopsis and confirmed Doom & Buster's partner announcement
 
