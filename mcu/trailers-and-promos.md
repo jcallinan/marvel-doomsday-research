@@ -1,6 +1,18 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-05. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-06. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 6 archive — new official Jeep/Marvel commercial; November 5 studio tour video
+
+**Jeep original first-party announcement: November 6, 2026, 10:00 a.m. ET; archive check: November 6.** [Stellantis original press release](https://www.prnewswire.com/news-releases/jeep-brand-takes-adventure-to-marvel-studios-avengers-doomsday-universe-in-epic-finale-of-sweeping-yearlong-global-collaboration-302931380.html) embeds/links the [Jeep-authorized YouTube video `A Jeep 4x4 for Any Universe`](https://www.youtube.com/watch?v=uZjSPSuYY7c). The company says this is **chapter three of its yearlong Marvel collaboration**, launching November 6 and running through December in the U.S. and selected other markets. The branded video features **Captain America, Human Torch, H.E.R.B.I.E., Nightcrawler and the Thing (driving a Wrangler)** across **Avengers Tower, the X-Mansion, the Fantastic Four's universe and Latveria**. Stellantis explicitly identifies **Latveria as Doctor Doom's country**.
+
+**Novelty assessment:** **CONFIRMED new original Jeep/MARVEL partner video** relative to previously cataloged MLB (Oct. 23), Japanese dubbed (Nov. 3), Dunkin and KFC (Nov. 4) assets. **NOT a confirmed new theatrical trailer**; these are **sponsored-ad depictions**, with no first-party certification that any frame appears in the movie. **Footage not directly frame-audited; no reliable scene timecodes available.** November 5 online reposts/reports of the Jeep footage are the **same advertisement**, not another separate clip. Claims that a tower is specifically **Doomstadt Tower** and that portal effects reveal Battleworld or Doctor Strange are **REPORTED/INTERPRETATIONS**, not confirmed by the Stellantis description. [Daily provenance/film theory assessment](../news/2026-11-06.md).
+
+**Global tour:** [Marvel Studios' original **November 5** social announcement](https://x.com/MarvelStudios/status/2118402984933831065) revealed nine marketing-tour cities; [November 5 Las Vegas Review-Journal coverage](https://neon.reviewjournal.com/movies/marvel-bringing-its-doomsday-global-tour-to-las-vegas-3345436/) confirms the company social video/countdown. **CONFIRMED marketing announcement**, not a narrative clip. **No confirmed event dates, locations or participating cast per stop**. Newly indexed November 6, not newly issued November 6.
+
+**Fresh-footage audit (Nov. 6):** [Disney U.S. movie page](https://movies.disney.com/avengers-doomsday), [Marvel Japan video grid](https://marvel.disney.co.jp/movie/avengers-doomsday) and [MLB's existing report](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) establish no separately verified brand-new theatrical trailer or MLB spot after the partner material above. **U.S. release remains Dec. 18, 2026**.
+
+---
 
 ## November 5 archive check — November 4 'Doom & Buster's' licensed activation (no new movie video verified)
 
