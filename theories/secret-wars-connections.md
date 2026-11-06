@@ -14,6 +14,10 @@
 - **Confirmed official promotion:** [MLB's report dated 2026-10-24](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) describes Doom appearing over an Ebbets Field scene in the Fantastic Four's world. The MLB players are promo-specific edits, not confirmed film characters.
 - **Reported interview:** In [Bleeding Cool's 2026-10-21 interview](https://bleedingcool.com/comics/lucca-jonathan-hickman-works-on-more-films-than-anyone-will-know/), Hickman says he has read changing *Doomsday* scripts and viewed unfinished scenes, but has not seen the final cut. The interview **does not confirm** a scene-by-scene adaptation, that Hickman determined the plot, or a formal credited role on both movies.
 
+## November 5–6, 2026 marketing follow-up — no plot confirmation
+
+On **November 5**, [Marvel Studios announced a nine-city promotional tour](https://x.com/MarvelStudios/status/2118402984933831065) (corroborated by [the November 5 Las Vegas Review-Journal report](https://neon.reviewjournal.com/movies/marvel-bringing-its-doomsday-global-tour-to-las-vegas-3345436/)), using Doctor Doom art and a countdown. On **November 6 at 10:00 ET**, [Stellantis/Jeep formally introduced a partner commercial](https://www.prnewswire.com/news-releases/jeep-brand-takes-adventure-to-marvel-studios-avengers-doomsday-universe-in-epic-finale-of-sweeping-yearlong-global-collaboration-302931380.html) ([company-linked video](https://www.youtube.com/watch?v=uZjSPSuYY7c)) visiting the Avengers, X-Men and Fantastic Four's fictional settings and **Latveria**. **Confirmed real-world promotion** does not verify that these settings merge in the actual film, that `Secret Wars` (2015) is adapted scene-for-scene, that an incursion creates Battleworld, or that Doom becomes God Emperor. No theory confidence increased. [Source-and-date note](../news/2026-11-06.md).
+
 ## Competing interpretations
 
 **For a 2015-*Secret Wars* influence:** Multiple universes collide in the announced premise; Reed and Doom are both present; Hickman's comic saga is a pertinent comparison; Hickman has some development-stage visibility.
