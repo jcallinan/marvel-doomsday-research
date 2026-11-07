@@ -1,6 +1,16 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-06. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-07. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 7 audit — reported maps/cards, but no verified new film video
+
+**Review date: November 7.** [Marvel Japan's video list](https://marvel.disney.co.jp/movie/avengers-doomsday), [Disney's film page](https://movies.disney.com/avengers-doomsday) and [MLB's earlier official crossover](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) do **not** establish a fresh November 7 theatrical trailer or sports spot after [Jeep's official November 6 ad](https://www.youtube.com/watch?v=uZjSPSuYY7c). No independently authenticated shot timestamps.
+
+**Newly circulated *static* marketing research (not video):** [November 7 Latveria map reporting](https://www.comicbasics.com/avengers-doomsday-latveria-map-reveals-doctor-dooms-kingdom-from-doomstadt-to-doomwood-forest/) explicitly says the original map provenance was **not confirmed**; [November 6 purported Marvel Snap card-art reporting](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-promo-art-reveals-epic-mcu-team-ups-and-a-first-look-at-doctor-dooms-doom-guard-a230842) cites fan-distributed art rather than a directly audited original publisher asset. These **REPORTED** graphics include named Latverian landmarks, a Latverian Witch, a Doom Guard and suggested character pairings, but **do not establish live-action scenes**, full film casting or an authenticated official video. No new video listing or comic-film theory upgrade is appropriate. [Dated report](../news/2026-11-07.md).
+
+**Real-world promotional schedule:** [Walt Disney Company Korea's November 6 distributor announcement](https://en.yna.co.kr/view/AEN20261106006200315), corroborated by [The Korea Herald](https://biz.heraldcorp.com/article/10927976), confirms **Chris Evans, Chris Hemsworth and Kevin Feige visiting Seoul December 7–8**. This adds details to the **November 5 global tour**, but is an **event plan, not new footage**.
+
+---
 
 ## November 6 archive — new official Jeep/Marvel commercial; November 5 studio tour video
 
