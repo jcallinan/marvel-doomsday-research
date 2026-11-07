@@ -1,6 +1,14 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-11-06. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-11-07. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## November 7 verification — Nov. 6 distributor schedule; reported art/book details held apart
+
+**CONFIRMED original Nov. 6 announcement; archived Nov. 7:** Walt Disney Company Korea told [Yonhap](https://en.yna.co.kr/view/AEN20261106006200315) that **Chris Evans, Chris Hemsworth and Kevin Feige** will be in **Seoul December 7–8** to promote *Doomsday*. [The Korea Herald](https://biz.heraldcorp.com/article/10927976) reports a press conference and red-carpet program; venues and exact appearance hours are not yet confirmed. Local **South Korea December 16** opening is supported by the distributor-attributed reporting; **U.S. December 18** remains on [Disney's U.S. listing](https://movies.disney.com/avengers-doomsday). This **supersedes the November 6 archive's “no tour dates/attendees confirmed” statement below as of this check**; that earlier section documents the information available at its time, not current status. These real-world guests are **not new cast announcements**.
+
+**REPORTED only, not promoted into verified movie facts:** [November 7 map reporting](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-promo-art-reveals-full-map-of-latveria-and-confirms-doctor-dooms-earth-828-connection-a230855), [Nov. 6 alleged Marvel Snap art coverage](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-promo-art-reveals-epic-mcu-team-ups-and-a-first-look-at-doctor-dooms-doom-guard-a230842), and [Nov. 6–7 secondary accounts of DK reference-book Doom passages](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-commercial-unveils-latveria-castle-doom-first-look-at-villains-book-of-spells-a230838) describe Latverian names, Doom's possible Earth-828 biography, a spellbook, a Latverian Witch and Doom Guard. Original publisher-controlled assets/text have **not** been independently verified. [DK/PRH independently confirms only the book's existence and U.S. November 10 publication](https://www.penguinrandomhouse.com/books/827365/from-endgame-to-doomsday-a-marvel-studios-visual-dictionary-avengers-allies-and-foes-by-liz-marsham/). Neither the alleged map nor character/card art confirms actual theatrical scenes or cast additions. [Full provenance](../news/2026-11-07.md).
+
+**November 7 result:** no newly verified cinematic trailer, MLB footage or U.S. release change; no change in incursion/Battleworld/Tony-Doom evidence.
 
 ## November 6 verification — official Jeep Marvel partnership (ad-only) and November 5 studio marketing
 
