@@ -1,6 +1,12 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-11-07. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-11-08. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## November 8 verification — licensed collection authenticated, reported interior blurbs not independently verified
+
+**CONFIRMED publisher product, not movie scenes:** [Panini Brazil's official *Avengers: Doomsday — Worlds Collide* collection page](https://panini.com.br/vingadores-doutor-destino-os-mundos-colidem-album-capa-cartao) specifies a **32-page album, 192 stickers and 50 cards**, expected Brazilian preorder dispatch in the **second half of November 2026**. However the [November 7 secondary article describing hero pairings](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-profiles-may-reveal-new-character-details-and-some-surprising-team-ups-a230859) is **REPORTED**: no original publisher-controlled interior profiles were directly checked. **November 8 reported Doomstadt copy** (see [Comic Basics](https://www.comicbasics.com/avengers-doomsday-gives-doomstadt-its-first-official-description-and-its-soaked-in-mystery/)) also lacks authenticated original first-party text or a movie-scene guarantee. Neither is upgraded to confirmed film canon.
+
+**November 8 checks:** [Disney U.S. still gives December 18, 2026](https://movies.disney.com/avengers-doomsday) and its three-universe premise; [Marvel Japan's video list](https://marvel.disney.co.jp/movie/avengers-doomsday) shows already cataloged clips. No new authoritative theatrical footage, MLB spot, film casting/plot detail, or basis for incursion/Battleworld/Tony-Doom theory revision. [November 8 audit](../news/2026-11-08.md).
 
 ## November 7 verification — Nov. 6 distributor schedule; reported art/book details held apart
 
