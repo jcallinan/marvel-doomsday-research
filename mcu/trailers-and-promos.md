@@ -1,6 +1,12 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-07. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-08. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 8 audit — new merchandise reporting; no authenticated new film video
+
+**Archive check: November 8.** The [Disney U.S. video list](https://movies.disney.com/avengers-doomsday), [Marvel Japan's film/video page](https://marvel.disney.co.jp/movie/avengers-doomsday) and [MLB's official October World Series coverage](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) revealed **no newly verified theatrical trailer, additional MLB crossover or meaningfully revised feature-film footage** beyond previously indexed clips; the [Jeep November 6 campaign video](https://www.youtube.com/watch?v=uZjSPSuYY7c) remains the latest independently authenticated **new partner commercial** in this archive. No directly verified new timecoded film shots. **November 8** [Doomstadt-copy reporting](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-doomstadt-description-revealed-statue-offers-detailed-new-look-at-doctor-doom-a230867) and **November 7** [Panini album-interior reporting](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-profiles-may-reveal-new-character-details-and-some-surprising-team-ups-a230859) concern **static alleged promotional descriptions**, not film footage. [Panini confirms product existence](https://panini.com.br/vingadores-doutor-destino-os-mundos-colidem-album-capa-cartao), but its page does not verify those purported interior text passages. November 7 fan photos of a Japan promotional statue are new angles of **an existing display**. [Dated source audit](../news/2026-11-08.md). No change to cinematic theory confidence.
+
+---
 
 ## November 7 audit — reported maps/cards, but no verified new film video
 
