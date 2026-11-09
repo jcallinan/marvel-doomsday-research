@@ -1,6 +1,16 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-08. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-09. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 9 audit — Japanese Seoul event giveaway; no newly authenticated film footage
+
+**Archive check: November 9.** [Marvel Japan's original November 9 announcement](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261109_02) and [official full campaign](https://marvel.disney.co.jp/movie/avengers-doomsday/event-cp) confirm an **application-window November 9–12** for a **December 7–9** Korea fan-event travel giveaway, not a new movie video. Its generic “new trailer” heading does **not establish a newly released cut on November 9**.
+
+**REPORTED, provenance unresolved:** [November 9 Comic Basics](https://www.comicbasics.com/avengers-doomsday-ad-shows-a-sentinel-head-scarred-by-claw-marks/) describes a social repost of a **scarred Sentinel head** spot. [ComicBookMovie on November 9](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-action-figure-reveals-thors-new-helmet-as-spoiler-vs-sentinel-speculation-mounts-a230877) calls the Sentinel shot part of **a recent Jeep commercial**, so a distinct *new* November 9 video has not been verified against the [original November 6 Jeep upload](https://www.youtube.com/watch?v=uZjSPSuYY7c). Similarly, reported fan-posted **Thor/yellow lightning helmet toy** imagery lacks independent manufacturer-source authentication. **No verified source-video URL for a distinct new spot, unique frames, first-air date or film-shot timecodes.** Wolverine clawing a Sentinel, new Thor powers and Doom directing Sentinels remain **SPECULATION**, not licensed film confirmations.
+
+**Primary-source cross-checks:** [Disney U.S. catalog](https://movies.disney.com/avengers-doomsday), [Marvel Japan's film/video list](https://marvel.disney.co.jp/movie/avengers-doomsday), and [MLB's already archived October 23/24 World Series special](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) did not substantiate another original November 9 film trailer/MLB video. The **November 6 official Jeep spot** remains previously indexed; **U.S. theatrical release is December 18**. [Nov. 9 evidence ledger](../news/2026-11-09.md).
+
+---
 
 ## November 8 audit — new merchandise reporting; no authenticated new film video
 
