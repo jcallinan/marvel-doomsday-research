@@ -1,6 +1,16 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-11-08. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-11-09. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## November 9 verification — Japan market fan tour; actor interview backfill; unsupported new-footage claims
+
+**CONFIRMED original November 9 Disney Japan source:** [Marvel Japan's November 9 announcement](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261109_02) and [official event rules](https://marvel.disney.co.jp/movie/avengers-doomsday/event-cp) offer **10 qualifying Japan-resident fans** travel to the **Seoul fan event, December 7–9**, via a **November 9–12** application period (Japan time). Eligibility includes age 20+ and a valid passport. This is a **fan-promotion trip**; it does not extend the [previously announced December 7–8 Chris Evans/Chris Hemsworth/Kevin Feige appearances](https://en.yna.co.kr/view/AEN20261106006200315) into a confirmed December 9 cast event. No new cast, plot, trailer or film location was revealed.
+
+**ON-RECORD November 4 actor comment, first indexed November 9:** [Channing Tatum's ScreenRant interview (syndicated AOL copy)](https://www.aol.com/articles/gambits-mcu-multiverse-origins-clarified-110018000.html) describes Gambit's broad link with the older X-Men timeline **with ambiguity**, and Tatum says the movie does not spend time clarifying his precise origin. This **does not confirm a precise film universe number or any character's death**. Distinct from the Dunkin commercial already archived on November 4; not a new November 9 interview or official film synopsis.
+
+**REPORTED fan assets only, not moved to the confirmed-film ledger:** [November 9 accounts of a claw-marked Sentinel ad](https://www.comicbasics.com/avengers-doomsday-ad-shows-a-sentinel-head-scarred-by-claw-marks/) and [Thor lightning-helmet action-figure images](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-action-figure-reveals-thors-new-helmet-as-spoiler-vs-sentinel-speculation-mounts-a230877) lack verified original Marvel/Disney/Hasbro release of those *specific* assets. The Sentinel image may simply be from the already archived **November 6 Jeep ad**, not a separately launched November 9 spot. A comic-accurate aesthetic, claw marks or toy accessories cannot establish Wolverine casting, new Thor powers or Doom's movie tactics.
+
+**Primary-film status reviewed November 9:** [Disney U.S.](https://movies.disney.com/avengers-doomsday) retains **December 18, 2026** and the three-universe premise; [Marvel Japan's movie page](https://marvel.disney.co.jp/movie/avengers-doomsday) continues its indexed films/videos; no newly verified MLB special follows [October 23/24 coverage](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series). No film-canon or incursion/Battleworld/Secret Wars confidence revisions. [Full provenance](../news/2026-11-09.md).
 
 ## November 8 verification — licensed collection authenticated, reported interior blurbs not independently verified
 
