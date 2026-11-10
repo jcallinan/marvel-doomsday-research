@@ -1,6 +1,14 @@
 # Avengers: Doomsday — verified facts tracker
 
-**Reviewed:** 2026-11-09. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+**Reviewed:** 2026-11-10. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
+
+## November 10 verification — DK publication is confirmed; newly circulated excerpt remains reported
+
+**CONFIRMED publisher metadata (original U.S. publication date November 10, 2026):** [DK's product page](https://dk.com/en-us/products/9798217305827-from-endgame-to-doomsday-a-marvel-studios-visual-dictionary-avengers-allies-and-foes) lists **128-page hardcover** `From Endgame to Doomsday: A Marvel Studios Visual Dictionary: Avengers, Allies, and Foes`, ISBN 9798217305827, dated **November 10, 2026**. **Neither DK's nor [Penguin Random House's public listing](https://www.penguinrandomhouse.com/books/827365/from-endgame-to-doomsday-a-marvel-studios-visual-dictionary-avengers-allies-and-foes-by-liz-marsham/) authenticates the specific circulated character passage below.** Publisher metadata is not proof that an individual copy was opened or read.
+
+**REPORTED, not promoted to film-canon confirmation (original reporting November 10):** [The Direct](https://thedirect.com/article/avengers-doomsday-thanos-galactus-synopsis-namedrop-robert-downey-jr-doctor-doom) attributes to this book a Shuri/Black Panther and Ben Grimm/The Thing profile comparing the heroes' coming threat with **Thanos and Galactus**. The precise source page is not publisher-verified here; its claim that this conclusively ranks Doom's power exceeds independently verified evidence. An [existing Disney gallery](https://movies.disney.com/avengers-doomsday) pictures Shuri and Ben in shared group promotional photography, while a **November 7** Panini-profile report already suggested a Shuri/Thing pairing. The purported **Thanos/Galactus comparison**, not the grouping itself, is the novel secondary claim. No new scene, film dialogue, casting, Doom/Tony identity or Battleworld evidence established.
+
+**November 10 first-party baseline:** [Disney U.S.](https://movies.disney.com/avengers-doomsday) continues to list **December 18, 2026** and the three-universe premise; [Marvel Japan](https://marvel.disney.co.jp/movie/avengers-doomsday) and [MLB](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) show no independently authenticated *new* November 10 film footage. No change to theory-confidence estimates. [Full November 10 research ledger](../news/2026-11-10.md).
 
 ## November 9 verification — Japan market fan tour; actor interview backfill; unsupported new-footage claims
 
