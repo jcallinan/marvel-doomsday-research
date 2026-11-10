@@ -1,6 +1,16 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-09. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-10. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 10 audit — reported KFC commercial concept design, no new theatrical footage
+
+**Archive check: November 10.** [Omelete's Nov. 10 report](https://www.omelete.com.br/filmes/vingadores-doutor-destino-arte-conceitual-nova-york-destruicao) attributes new **static concept artwork** depicting Doctor Doom above a ruined New York to artist **Darek Zabrocki's work for Black Kite Studio on the KFC/Marvel advertisement**. [Fiction Horizon's same-day discussion](https://fictionhorizon.com/doctor-doom-levels-the-city-in-striking-new-avengers-doomsday-kfc-promo-art/) describes a fan repost of a related image. **REPORTED original art provenance** (direct artist upload not independently examined), **not new movie footage**, a newly verified November 10 original commercial or a screen timestamp. [KFC's original November 4 press release](https://global.kfc.com/press-releases/kfc-brings-the-doom-new-marvel-inspired-menu-lands-ahead-of-marvel-studios-avengers-doomsday) confirms the **already archived** branded film concept with Doom and ruined New York in 15/30-second cuts. [Creative Salon's November 3 campaign description](https://creative.salon/articles/work/dr-doom-marvel-kfc-doom-burger) also describes a **60-second campaign version**, which predates this Nov. 10 check; this version is **not claimed newly released today**. No first-party upload URL or direct frame timestamps for a distinct new edit were authenticated.
+
+**Other November 10 material was not video:** [DK's licensed visual dictionary is dated for U.S. publication Nov. 10](https://dk.com/en-us/products/9798217305827-from-endgame-to-doomsday-a-marvel-studios-visual-dictionary-avengers-allies-and-foes), and [The Direct reported Shuri/Ben profile wording](https://thedirect.com/article/avengers-doomsday-thanos-galactus-synopsis-namedrop-robert-downey-jr-doctor-doom) and [a separate alleged Sam Wilson profile](https://thedirect.com/article/avengers-doomsday-character-descriptions-lead-five-hero-teams). The specific passages are **not verified in DK's public listing** and do not supply film footage.
+
+[Disney U.S.](https://movies.disney.com/avengers-doomsday), [Marvel Japan](https://marvel.disney.co.jp/movie/avengers-doomsday) and [MLB's previous World Series crossover](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) supplied **no independently authenticated newly issued November 10 theatrical trailer, MLB spot or meaningful new theatrical frames**. **No new shot timecodes or film-canon Doom/Battleworld deductions.** [Nov. 10 dated evidence ledger](../news/2026-11-10.md).
+
+---
 
 ## November 9 audit — Japanese Seoul event giveaway; no newly authenticated film footage
 
