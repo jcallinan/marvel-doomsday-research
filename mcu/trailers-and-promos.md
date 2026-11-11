@@ -1,6 +1,16 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-10. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-11. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 11 video audit — secret *VisionQuest* episode footage and reported clock design change
+
+**Archive check: November 11, 2026. SPOILERS.** [Disney+ schedules the *VisionQuest* finale for Nov. 11](https://www.disneyplus.com/explore/articles/marvel-visionquest); [Entertainment Weekly's original detailed reporting was published Nov. 10 at 11:01 p.m. ET](https://ew.com/visionquest-avengers-doomsday-post-credits-scene-elizabeth-olsen-scarlet-witch-return-12248438); [People](https://people.com/visionquest-finale-tease-this-unexpected-character-return-surprise-end-credit-scene-12248528) and [TheWrap](https://www.thewrap.com/creative-content/tv-shows/wanda-alive-visionquestion-post-credits-scene-reactions/) followed on Nov. 11. An actual secret **post-credits TV-series scene** features Downey's Doctor Doom finding and awakening Olsen's Scarlet Witch beneath Wundagore, while seeking her powers. **Classification: ON-SCREEN MCU SERIES, independently corroborated by news outlets; not a newly released standalone theatrical *Doomsday* teaser/spot.** [Watch the authorized Disney+ episode](https://www.disneyplus.com/browse/entity-8744ec55-8d14-4631-99b4-c889a2d6013f). No official free-standing clip URL or directly verified shot-by-shot timestamps was located; **do not assign invented timecodes**.
+
+[Comic Basics, Nov. 11](https://www.comicbasics.com/avengers-doomsday-countdown-clock-glows-red-after-scarlet-witchs-return-and-fans-smell-a-clue/) and [Fiction Horizon, Nov. 11](https://fictionhorizon.com/marvels-avengers-doomsday-countdown-clock-turns-red-after-the-scarlet-witchs-shock-return/) report the existing [official *DOOMSDAY CLOCK* live stream](https://www.youtube.com/watch?v=f17J3AXVK5w) changed its countdown lettering to red. **REPORTED design alteration**, with original stream link verified but its exact historical state and edit time not independently captured. **THEORY** that the new red color was deliberately chosen to refer to Wanda; **not a newly shot movie sequence**.
+
+**Film-video comparison:** [Disney's film catalog](https://movies.disney.com/avengers-doomsday), [Marvel Japan's video page](https://marvel.disney.co.jp/movie/avengers-doomsday) and [MLB's Oct. 24 documentation of the Oct. 23 World Series crossover](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) yielded **no separate newly authenticated November 11 theatrical trailer, MLB crossover or unique film frames**. Nov. 4 Dunkin and Nov. 6 Jeep commercials were already logged and are not new clips. The [*Children's Crusade* Doom/Wanda parallel](../comics/storylines/avengers-the-childrens-crusade-2010.md) is **comic interpretation, not proof of a film scene, Wanda's film casting or God Emperor Doom**. [Full Nov. 11 evidence ledger](../news/2026-11-11.md).
+
+---
 
 ## November 10 audit — reported KFC commercial concept design, no new theatrical footage
 
