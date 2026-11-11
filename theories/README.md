@@ -8,6 +8,7 @@
 | Incursions | [Analysis](incursions.md) | MCU multiverse groundwork |
 | Battleworld | [Analysis](battleworld.md) | 2015 comic precedent |
 | Secret Wars connections | [Analysis](secret-wars-connections.md) | Different 1984/2015 influences |
+| Doctor Doom / Scarlet Witch / *Children's Crusade* | [Evidence ledger](doom-scarlet-witch.md) | New *VisionQuest* TV scene vs. unconfirmed film casting/power-transfer plot; [comic source guide](../comics/storylines/avengers-the-childrens-crusade-2010.md) |
 | Cynthia von Doom / reported Sandra Hüller cameo | [Evidence ledger](cynthia-von-doom-casting.md) | Reported unknown cameo versus unconfirmed character identification |
 
 For each theory record: **claim**, **comic basis**, **film evidence**, **counterevidence**, **confidence as qualitative judgment**, and **what would falsify it**. Do not invent probabilities.
