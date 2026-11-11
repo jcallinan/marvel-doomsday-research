@@ -1,5 +1,16 @@
 # Avengers: Doomsday — verified facts tracker
 
+## November 11 verification — *VisionQuest* finale introduces direct Doom/Wanda MCU connection
+
+**ON SCREEN (independently corroborated, not a *Doomsday* movie shot):** The secret post-credits scene of Marvel Television's *VisionQuest* finale shows **Robert Downey Jr.'s Doctor Doom** removing rubble from Mount Wundagore and addressing **Elizabeth Olsen's Wanda Maximoff/Scarlet Witch**, who wakes; Doom voices interest in her power. The scene was withheld from advance press screeners. [Entertainment Weekly first reported it **Nov. 10 at 11:01 p.m. ET**](https://ew.com/visionquest-avengers-doomsday-post-credits-scene-elizabeth-olsen-scarlet-witch-return-12248438); [People](https://people.com/visionquest-finale-tease-this-unexpected-character-return-surprise-end-credit-scene-12248528) and [TheWrap](https://www.thewrap.com/creative-content/tv-shows/wanda-alive-visionquestion-post-credits-scene-reactions/) corroborated it **Nov. 11**. [Disney+'s official episode schedule](https://www.disneyplus.com/explore/articles/marvel-visionquest) lists the finale **Nov. 11**. **Archive check Nov. 11.** Direct episode streaming was not independently performed in this audit.
+
+**Important limitation:** Olsen's presence **in *VisionQuest*** is established; **she is not separately listed in the official *Avengers: Doomsday* cast** on [Disney's film page](https://movies.disney.com/avengers-doomsday) at this check. “Wanda definitely appears in the film,” a completed magical power transfer, Doom/Wanda romance, a masked Latverian-witch identity, and specific *Secret Wars* mechanics **are not confirmed**. The episode strongly sets up potential developments, but they remain **inference** until a film primary source verifies them.
+
+**ON RECORD, November 10:** [*VisionQuest* showrunner Terry Matalas discussed a larger Wanda role considered during the TV show's development](https://www.thewrap.com/creative-content/tv-shows/visionquest-finale-does-wanda-come-back-terry-matalas-interview/), not an announced *Doomsday* screenplay outcome.
+
+**UNCHANGED film baseline:** Disney still gives the **U.S. December 18, 2026** release and three-universe premise. See [Nov. 11 sourced checkpoint](../news/2026-11-11.md), [Doom/Wanda theory](../theories/doom-scarlet-witch.md), and [comics primer](../comics/storylines/avengers-the-childrens-crusade-2010.md).
+
+
 **Reviewed:** 2026-11-10. This page records information corroborated by primary studio/distributor/partner sources; it does **not** promote extrapolations from advertising into film canon.
 
 ## November 10 verification — DK publication is confirmed; newly circulated excerpt remains reported
