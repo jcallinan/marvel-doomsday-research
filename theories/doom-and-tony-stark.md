@@ -1,6 +1,12 @@
 # Theory: Doctor Doom, Tony Stark and visual identity
 
-**Classification:** THEORY. **Reviewed:** November 1, 2026. **Confidence that this film portrays Tony Stark literally becoming / secretly being Victor von Doom: LOW, unchanged.** A returning actor and deliberately linked visual designs are not character-identity evidence.
+## November 13 archive update — Kevin Feige's November 12 on-record correction
+
+**Evidence upgrade — filmmaker/studio leadership statement, originally November 12:** Marvel Studios president **Kevin Feige** expressly rejects the idea that Robert Downey Jr.'s casting means Doom is a variant of Tony Stark. He says the character is **Victor von Doom**, comparing the casting to Chris Evans playing both Johnny Storm and Steve Rogers. Original [Empire exclusive (Nov. 12)](https://www.empireonline.com/movies/news/avengers-doomsday-doctor-doom-worth-being-scared-of-exclusive/); independently reported [SlashFilm (Nov. 12)](https://www.slashfilm.com/2315324/robert-downey-jr-doctor-doom-not-tony-stark-variant-marvel/).
+
+**Revised assessment:** Literal `Tony Stark is the character named Doom` / `Doom is simply an alternate Tony` is **directly contradicted by the studio president's current statement**, not merely unsupported. The actor may still evoke Stark visually or emotionally, and no film statement here rules out other Tony-related subplots. Do **not** falsely upgrade a generic facial similarity or promotional misdirection to the hidden-identity theory. Previous November 1 evaluation below is a **historical checkpoint**, superseded on this point.
+
+**Historical status (superseded by November 12 Feige interview above):** THEORY. **Originally reviewed:** November 1, 2026. **Then confidence that this film portrays Tony Stark literally becoming / secretly being Victor von Doom: LOW.** A returning actor and deliberately linked visual designs are not character-identity evidence.
 
 ## Claim and film baseline
 
