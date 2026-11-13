@@ -1,6 +1,16 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-12. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-13. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 13 review — Nov. 12 Downey Instagram Reel and previously announced *Encore* streaming
+
+**Original November 12 actor social-marketing asset (backfilled November 13):** [Robert Downey Jr.'s Instagram Reel](https://www.instagram.com/reel/Dfp6E98Bjxr/), linked by [a Nov. 12 contemporaneous report embedding the original post](https://comicbookmovie.com/avengers/avengers-doomsday/patience-subjects---robert-downey-jr-shares-avengers-doomsday-tease-is-the-new-trailer-imminent-a230968), is described as Downey silently waiting/checking a watch while delivering time-themed Doom marketing in the caption. This is an **actor-posted promotional video**, **not authenticated new feature-film footage**; the Reel itself was not directly playable/frame-reviewed here. No reliable shot timestamps. Rumored timing of a future final trailer remains **unconfirmed by Marvel** ([GamesRadar, Nov. 13 recap](https://www.gamesradar.com/entertainment/marvel-movies/robert-downey-jr-posts-cryptic-avengers-doomsday-teaser-time-will-tell-doom-wont/)).
+
+**November 13 distribution, already announced and logged Nov. 12:** [Disney+'s official `Endgame: Encore` guide](https://www.disneyplus.com/explore/articles/avengers-endgame-encore) says the updated cut becomes available today. Its new streaming availability is **not the first public showing of the extra September theatrical material**. No added theatrical shot, scene timecode or entirely new trailer independently authenticated.
+
+**MLB comparison:** The [October 23 World Series crossover, documented by MLB October 24](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) remains the latest validated MLB campaign footage; no new November 13 MLB crossover verified. No change to the U.S. [December 18 release](https://movies.disney.com/avengers-doomsday). **Comics interpretation:** an actor's clock gesture alone cannot establish Doom's use of time travel, Wanda, incursions or Battleworld. [Full audit](../news/2026-11-13.md).
+
+---
 
 ## November 12 video audit — Disney UK's newly announced TV spot, November 11 Disney+ montage backfill
 
