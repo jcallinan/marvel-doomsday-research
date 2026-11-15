@@ -1,5 +1,13 @@
 # Theory: incursions
 
+## November 15 accuracy correction — September 29 original Disney primary source predates November 13 Feige remark
+
+[**The Walt Disney Company's original September 29, 2026 feature**](https://thewaltdisneycompany.com/news/russo-brothers-avengers-endgame-doomsday/) explicitly describes Mobius, Casey and O.B. watching the multiverse collapse through a **chain of concurrent incursions** in *Avengers Endgame: Encore* footage (screened in September). That is **PRIMARY studio documentation dated September 29**, not newly released footage on November 15.
+
+**CORRECTION:** The November 14 archive addition rightly records Feige's **November 13** on-record explanation that Avengers will face incursions, but any suggestion the word itself was **first confirmed** by Feige in November is inaccurate. The older Disney source already used it. **SUPPORTED:** incursions are an explicit MCU story threat in the filmed TVA bridge and Feige's later explanation. **UNCONFIRMED:** the identical rules of Hickman's 2013–2015 comics, who caused the incursions, Doom's method of intervention, universes' fate, Battleworld or God Emperor Doom. This preserves the theory's evidence hierarchy without converting an older discovery into new November news.
+
+**Archive review:** November 15, 2026. [Full dated source audit](../news/2026-11-15.md).
+
 ## November 14 archive update — November 13 Feige interview changes the evidentiary baseline
 
 **ON-RECORD PLOT FRAMING, newly indexed:** Kevin Feige told *Empire* that the disorganized Avengers face **incursions**. [The Playlist — original November 13, 2026, 3:13 p.m.](https://theplaylist.net/avengers-doomsday-kevin-feige-avengers-cyclops-catastrophic-20261113/), with Feige's statement attributed to the Empire cover story; a [second contemporaneous November 13 account](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-star-pedro-pascal-reveals-mister-fantastics-unique-bond-with-doctor-doom-a230983) embeds Empire's announcement. This is more probative than the previously documented Dunkin advertising joke or Disney's generic three-universe synopsis.
