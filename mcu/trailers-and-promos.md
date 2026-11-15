@@ -1,6 +1,20 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-13. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-15. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 15 video audit — new-to-catalog official November 13 Marvel countdown montage
+
+**ORIGINAL UPLOAD: November 13, 2026; REPOSITORY REVIEW: November 15.** Marvel Entertainment's official YouTube channel uploaded [**Countdown to Avengers: Doomsday | Every Moment on Disney+**](https://www.youtube.com/watch?v=Kl7nG1nD0mk). The [Marvel-channel index at GridVids](https://gridvids.com/marvel-entertainment/countdown-to-avengers-doomsday-every-moment-on-disney) identifies its publication date and channel; [Trari's November 14 tracking](https://trari.com/en/story/marvel-36374/) independently confirms the title/date. This **official new promotional edit** is distinct from the previously indexed [November 11 Disney+ “Return to the Universe” upload](https://www.youtube.com/watch?v=3pnpz8SqRI8) and [November 12 Disney UK TV spot](https://www.youtube.com/watch?v=7n3etujuU3c). Its existence was previously omitted from this catalog. **It is not the second full theatrical trailer.**
+
+**REPORTED CONTENT, NOT INDEPENDENT SHOT-BY-SHOT VIEWING:** [9to5Marvel's November 14 description](https://www.9to5marvel.com/doctor-doom-new-line-avengers-doomsday-spot/) and [Pirates & Princesses' November 13 report](https://news.piratesandprincesses.net/p/avengers-doomsday-teaser-gives-doctor) describe around a minute of retrospective clips, a closing **close-up of Doom's eyes**, and the short spoken line **“Now you must answer to me. For I am Doom.”** That line's use in the finalized movie has not been confirmed; the source's visual/audio descriptions are not a verified direct player review. The ending is **reported** around the final 10–11 seconds; no independently reliable precise clip timecodes are available. Viewers identify the Jean Grey material with an existing [*X2* scene](https://www.reddit.com/r/NewRockstars/comments/1xvj0mb/who_is_this/); absent our frame comparison, record as **reported archival reuse, not a new Jean Grey/Phoenix cast reveal**.
+
+**NOVEMBER 15 rumor audit:** One secondary report describes a purported **November 13** Indian 1m54s teaser certificate and predicts a November 16/18 upload ([Comic Basics, original Nov. 15](https://www.comicbasics.com/a-new-avengers-doomsday-teaser-looks-just-days-away-and-disney-seems-to-have-filed-the-paperwork/)). The claimed **new** CBFC certificate was **not directly verified**; older July/August certificates are not substitutes. Do **not** list the unreleased teaser as an official video or infer scenes, footage novelty or timestamps from a rumored certification.
+
+**Comic interpretation:** Doom's authoritarian dialogue evokes his long-running Latverian monarchy and, thematically, God Emperor Doom in *Secret Wars* (2015); it does **not confirm** Battleworld, Wanda power theft, Phoenix, or the movie's final plot. [September 29 Disney primary documentation of TVA incursions](https://thewaltdisneycompany.com/news/russo-brothers-avengers-endgame-doomsday/) is older material, not a new clip. [November 15 research ledger](../news/2026-11-15.md).
+
+**MLB and release date:** No new authenticated MLB crossover beyond [October 23 World Series campaign](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series). [Disney U.S. still lists December 18, 2026](https://movies.disney.com/avengers-doomsday).
+
+---
 
 ## November 13 review — Nov. 12 Downey Instagram Reel and previously announced *Encore* streaming
 
