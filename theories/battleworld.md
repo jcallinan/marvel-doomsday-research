@@ -1,5 +1,9 @@
 # Theory: Battleworld
 
+## November 15 — Doom's November 13 Disney+ promo dialogue does not establish Battleworld
+
+[Marvel Entertainment's original November 13 “Every Moment” promo](https://www.youtube.com/watch?v=Kl7nG1nD0mk), newly cataloged during the November 15 review, reportedly ends with a Doom demand for obedience ([Nov. 14 account](https://www.9to5marvel.com/doctor-doom-new-line-avengers-doomsday-spot/)). **Interpretation:** the rhetoric is compatible with Doom's authoritarian monarch and *Secret Wars* (2015) God Emperor portrayal; **it is not** first-party evidence that the film depicts a patchwork Battleworld, Doom's power source or a specific comics adaptation. Original promo date **November 13**, archive check **November 15**; no increase from LOW–MODERATE theory confidence. [Dated source audit](../news/2026-11-15.md).
+
 THEORY. FOR: Doom rules Battleworld in Secret Wars (2015), and the upcoming Avengers films evoke that era. AGAINST: no official confirmation that the film depicts the comics version of Battleworld. Confidence: LOW–MODERATE.
 
 ## November 6, 2026 — Jeep/Marvel partner video: no confidence increase
