@@ -1,5 +1,16 @@
 # Theory: *Secret Wars* connections
 
+## November 16 evidence update — Feige and Joe Russo describe a deliberately different sequel
+
+**ORIGINAL REPORT: November 16, 2026; ARCHIVE CHECK: November 16.** [The Playlist's contemporaneous *Empire*-attributed interview report](https://theplaylist.net/kevin-feige-joe-russo-avengers-secret-wars-20261116/) quotes **Kevin Feige** calling *Avengers: Secret Wars* "a whole other genre of story" than *Avengers: Doomsday*. **Joe Russo** describes an unusual world and ambitions to show audiences something unfamiliar. **ON-RECORD AS REPORTED**: the named filmmaker remarks are attributable to *Empire*, but the complete original magazine interview was not independently reviewed. [Dark Horizons' same-day write-up](https://www.darkhorizons.com/avengers-secret-wars-switches-genres/) is corroborating reportage, not separate film-source confirmation.
+
+**EVIDENCE HIERARCHY:**
+- **Confirmed earlier studio material, not newly discovered November film footage:** [Disney's September 29 original *Endgame: Encore* feature](https://thewaltdisneycompany.com/news/russo-brothers-avengers-endgame-doomsday/) already describes **incursions**, reinforced by Feige's **November 13** movie comments ([November 15 correction](incursions.md)). The historical October 26 snapshot below, which relies on a synopsis not explicitly naming incursions, is superseded on this specific point.
+- **Supported filmmaker intention:** *Secret Wars* is intended to differ in form/tone/setting from *Doomsday*. The comments are chiefly **about the 2027 sequel**, not an authenticated *Doomsday* ending.
+- **Not supported as a disclosed film event:** a confirmed Battleworld, a Beyonder appearance, a Doom victory, God Emperor Doom, patched-together worlds, or the comics' exact reality-collapse mechanism.
+
+**COMICS COMPARISON, NOT ADAPTATION CONFIRMATION:** [*Marvel Super Heroes Secret Wars* (1984–85)](https://www.empireonline.com/movies/features/marvel-secret-wars-explained-avengers-event-mcu/) features the Beyonder and a constructed Battleworld, whereas Jonathan Hickman's [*Secret Wars* (2015)](https://www.empireonline.com/movies/features/marvel-secret-wars-explained-avengers-event-mcu/) explores a surviving composite world after incursions ruled by Doom. The suggested "unique world" is **compatible with** either broad precedent and many original stories, but **does not name either on-screen interpretation**. Keep Battleworld at **LOW–MODERATE hypothesis**, not confirmed; see [Battleworld ledger](battleworld.md) and [Nov. 16 research checkpoint](../news/2026-11-16.md).
+
 **Classification: THEORY. Last reviewed 2026-10-26.** The 1984–85 *Marvel Super Heroes Secret Wars* and the 2015–16 *Secret Wars* are different stories. The MCU could borrow elements from either, both, or neither.
 
 ## Comic-canon comparisons
