@@ -9,6 +9,7 @@ This is a starting guide, **not** a complete appearance database. Publication or
 | 3 | *Fantastic Four* #57–60 (1966–67) | Silver Surfer power storyline |
 | 4 | *Super-Villain Team-Up* (1975 series), selected issues | Doom as a ruler and political player |
 | 5 | *Marvel Super Heroes Secret Wars* #1–12 (1984–85) | Cosmic power and the Beyonder |
+| 5a (thematic) | *Kang the Conqueror* (2021) #3 | Marvel's official synopsis specifically pits Kang versions against Doom. Relevant to Feige's discarded mid-film Doom introduction concept, **not proof of an adaptation**. [Kang/Doom source dossier](storylines/kang-doom-rivalry-and-succession.md). |
 | 6 | *Doctor Strange & Doctor Doom: Triumph and Torment* (1989) | Mysticism and Doom's mother |
 | 7 | *Books of Doom* #1–6 (2005–06) | Modern origin retelling |
 | 8 | Hickman's *Fantastic Four* and *Avengers/New Avengers* runs (selected) | Multiversal context |
