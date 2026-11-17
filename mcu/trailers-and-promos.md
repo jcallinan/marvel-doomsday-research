@@ -1,6 +1,14 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-15. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-17. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 17 archive video audit — no newly authenticated Marvel/Disney/MLB film footage
+
+**Archive check Nov. 17; rumor sources published Nov. 16.** [Disney U.S.'s current film/video gallery](https://movies.disney.com/avengers-doomsday), [Marvel Japan's film-news archive](https://marvel.disney.co.jp/movie/avengers-doomsday/news) and [MLB's original October 23/24 promotion record](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) yielded **no independent new November 17 film trailer, MLB crossover, or authenticated previously unseen scene**. The [official Marvel Entertainment November 13 countdown montage](https://www.youtube.com/watch?v=Kl7nG1nD0mk) remains separately cataloged below. This is a source/catalog audit, not direct frame-by-frame inspection of every asset; no timestamps invented.
+
+**UNVERIFIED future claim:** [The Direct's original November 16 discussion](https://thedirect.com/article/avengers-doomsday-trailer-final-disney-asad-ayaz-marvel-footage) interprets a one-word reply by Disney executive Asad Ayaz as a possible **November 18** trailer cue. The purported 1m54s Indian certificate is still not independently authenticated; neither an executive's ambiguous social reply nor news-site speculation establishes a new official video or scheduled release.
+
+**Non-film broadcast interview:** [The A.V. Club (Nov. 16)](https://www.avclub.com/anthony-mackie-avengers-doomsday-spoiler-response-jimmy-fallon) links [Anthony Mackie's *Tonight Show* interview](https://www.youtube.com/watch?v=Pcus_guYbPc). This is **an actor's on-record clarification** about Paul Bettany filming *VisionQuest* nearby, not a Marvel theatrical spot, a confirmed movie scene, or a source of novel *Doomsday* film footage. No comic-theory upgrade. [Details](../news/2026-11-17.md).
 
 ## November 15 video audit — new-to-catalog official November 13 Marvel countdown montage
 
