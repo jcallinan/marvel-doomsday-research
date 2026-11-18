@@ -1,6 +1,16 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-17. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-18. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 18 video-only audit — no new authenticated film footage despite trailer-date rumors
+
+**ARCHIVE CHECK: NOVEMBER 18; RUMOR STORIES ORIGINAL NOVEMBER 15–18.** [Disney's official Marvel video index](https://video.disney.com/marvel) continues to list existing theatrical trailer, special look, ticket, popcorn-container and theater-PSA clips; the presence of entries under "Recently Added" does not establish a **November 18 upload** or a revised cut. The [Disney U.S. movie gallery](https://movies.disney.com/avengers-doomsday) and [Marvel Japan news](https://marvel.disney.co.jp/movie/avengers-doomsday/news) did not substantiate a new official dated trailer, while [MLB's October 23/24 World Series crossover](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) remains the last independently authenticated MLB video in this catalog. Existing [November 13 Marvel countdown montage](https://www.youtube.com/watch?v=Kl7nG1nD0mk) remains indexed below. No new confirmed film frames, clip timecodes, or independently reviewed visual differences.
+
+**RUMOR, not an official release:** [JubileeCast's original Nov. 18 report](https://www.jubileecast.com/articles/41166/20261118/avengers-doomsday-final-trailer-expected-nov-18-release-time.htm) forecasts a Nov. 18 trailer while acknowledging **Marvel has not announced one**. The claimed Indian 1m54s certification was not independently checked; a countdown or vague executive post does not verify a release date or filmed content.
+
+**Non-video publicity:** [November 17 Kirby/*Empire* interview coverage](https://nerdist.com/article/vanessa-kirby-used-comic-reference-for-sue-vs-doom-scene-doomsday/) reveals a comic-inspired **Sue/Doom scene description, not a video excerpt**; [November 16 report of *Empire* image leakage](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-leaked-images-feature-black-widow-magneto-captain-america-a-teasing-glimpse-of-beast-a231033) concerns **still photos, not a Nov. 18 new clip**. Those do not warrant invented timestamp observations or a trailer classification. [Original-dated full review](../news/2026-11-18.md).
+
+---
 
 ## November 17 archive video audit — no newly authenticated Marvel/Disney/MLB film footage
 
