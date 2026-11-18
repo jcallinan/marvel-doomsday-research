@@ -1,5 +1,12 @@
 # Theory ledger: Reed Richards and Victor von Doom — intellectual rivals and former allies
 
+## November 18 update — Kirby specifically links Sue/Doom film scene to comics, issue unknown
+
+**ORIGINAL NEWS NOVEMBER 17; ARCHIVE CHECK NOVEMBER 18.** [Nerdist](https://nerdist.com/article/vanessa-kirby-used-comic-reference-for-sue-vs-doom-scene-doomsday/) and [ComingSoon](https://www.comingsoon.net/movies/news/2225039-avengers-doomsday-sue-storm-fantastic-four-comics-connection) relay **Vanessa Kirby's *Empire* comments** that illustrations depicting **Sue Storm conflicting with Victor** were sent to the Russo brothers, and one meaningful Sue scene is close to **an unspecified comic moment**. This adds evidence for the **Sue/Victor** strand of the larger Reed–Doom relationship without identifying what happened onscreen. [Marvel's *Fantastic Four* (1961) #5 and (1998) #508 publisher-recognized plots](../comics/storylines/sue-storm-doctor-doom-comic-precedents.md) and [Nerdist's proposed #116](https://nerdist.com/article/vanessa-kirby-used-comic-reference-for-sue-vs-doom-scene-doomsday/) are **candidate precedents, not source identification**. **CONFIRMED AS ACTOR ACCOUNT:** inspiration was used. **NOT CONFIRMED:** Sue's tactic, mind control, romance, Doom targeting a child, a character death, the exact panel or ending.
+
+**NOVEMBER 18 CHRIS EVANS INTERVIEW CONTEXT:** [The Direct's *Empire*-attributed account](https://thedirect.com/article/chris-evans-marvel-steve-rogers-robert-downey-jr-victor-von-doom-joe-russo) describes an angry, suffering but brilliant Doom and a Steve Rogers story linked directly to *Endgame*. This is a **character reading** consistent with long-running comics conflict; it does not establish that Reed or Sue caused Doom's suffering or that Steve's time travel caused multiversal incursions. [Full dated checkpoint](../news/2026-11-18.md).
+
+
 **Created / archive review:** November 14, 2026. **Interview news originally published:** November 13, 2026. **Status:** The actors' depiction of a shared intellectual bond is **ON RECORD**; specific *Doomsday* flashbacks, institutions, betrayal details and outcomes are **UNCONFIRMED**.
 
 ## Movie evidence
