@@ -1,5 +1,8 @@
 # Doctor Doom: curated reading order
 
+**November 18, 2026 cross-reference (not new comic publications):** Vanessa Kirby's **November 17** [*Empire*-attributed interview](https://nerdist.com/article/vanessa-kirby-used-comic-reference-for-sue-vs-doom-scene-doomsday/) motivates a supplemental **Sue Storm vs. Doctor Doom reading path**: *Fantastic Four* (1961) **#5** (early conflict; already in main list), *Fantastic Four* (1961) **#116** (a **Nerdist hypothesis**, not an identified movie source) and *Fantastic Four* (1998) **#508** (Marvel's [published synopsis](https://share.marvel.com/comics/discover/2506/things-reed-richards-feels-guilty-about) documents Doom controlling Sue). These issue publication dates are historical, **not November 18, 2026**. [New issue-based research dossier](storylines/sue-storm-doctor-doom-comic-precedents.md) notes what is established and what remains film speculation.
+
+
 This is a starting guide, **not** a complete appearance database. Publication order differs from in-universe chronology.
 
 | Order | Work | Why it matters |
