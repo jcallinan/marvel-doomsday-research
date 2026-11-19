@@ -1,5 +1,8 @@
 # Doctor Doom: curated reading order
 
+**Current-issue note (archive check Nov. 19; original sale Nov. 18, 2026):** ***Black Panther/Namor: Doomed* #3** joins the optional **monarchs and uneasy alliances** reading track. [November 18 retail release list](https://grahamcrackers.com/public/releases/111826) and [licensed digital listing](https://www.veve.me/comics/issue/86358183-ac28-4a28-8b19-140efa8bdc9f) establish sale date and creatives; [separate comic/film-evidence dossier](storylines/black-panther-namor-doomed-2026.md). This involves **comic T'Challa, Namor and Victor von Doom**, not an announced MCU adaptation, and is **not** an on-screen Shuri/Doom alliance. The scene-level interior was not independently reviewed; no plot-spoiler assertions taken as primary comic proof.
+
+
 **November 18, 2026 cross-reference (not new comic publications):** Vanessa Kirby's **November 17** [*Empire*-attributed interview](https://nerdist.com/article/vanessa-kirby-used-comic-reference-for-sue-vs-doom-scene-doomsday/) motivates a supplemental **Sue Storm vs. Doctor Doom reading path**: *Fantastic Four* (1961) **#5** (early conflict; already in main list), *Fantastic Four* (1961) **#116** (a **Nerdist hypothesis**, not an identified movie source) and *Fantastic Four* (1998) **#508** (Marvel's [published synopsis](https://share.marvel.com/comics/discover/2506/things-reed-richards-feels-guilty-about) documents Doom controlling Sue). These issue publication dates are historical, **not November 18, 2026**. [New issue-based research dossier](storylines/sue-storm-doctor-doom-comic-precedents.md) notes what is established and what remains film speculation.
 
 
