@@ -1,6 +1,24 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-18. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-19. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+
+## November 19 archive review — November 18 brought three distinct officially uploaded promos, not the rumored final trailer
+
+**ARCHIVE CHECK NOVEMBER 19; ORIGINAL VIDEOS UPLOADED NOVEMBER 18.** This new section supersedes the **November 18 midday snapshot below** where no new video had been found **at that time**; the later November 18 uploads are now verified. Do not overwrite the timestamp of that earlier historical check.
+
+| Original asset / publication | First-party link | Classification, comparison and verification boundary |
+|---|---|---|
+| **November 18 — “The Return” RDJ featurette** (~**1:31**), Marvel Entertainment | [Official US video](https://www.youtube.com/watch?v=Fg0jyss_YnU); [original channel/date metadata](https://youtubetrends.sitebrand.online/Video/Details/Fg0jyss_YnU) | **Confirmed NEW promo asset, on-record actor interview.** Downey speaks about moving from Iron Man to Victor von Doom and describes the villain as a manipulator ([Nov. 19 interview summary](https://nerdism.com/avengers-doomsday-robert-downey-jr-the-return-video/)). [Nov. 18 reporting](https://www.9to5marvel.com/avengers-doomsday-the-return-featurette/) describes fresh behind-the-scenes costumed team shots, not necessarily new final-film action. Official UK regional end-card edition is indexed by the [Marvel channel archive](https://gridvids.com/marvel-entertainment/vision-fans-sync/next-videos). **No exact shot timestamps or unverified frame novelty. Not the full theatrical trailer.** |
+| **November 18 — “In one month, return together”** (~**0:27**), Marvel Entertainment | [Official video](https://www.youtube.com/watch?v=m5UXf0zQn5A), [official Marvel Studios social post](https://x.com/MarvelStudios/status/2123144218579517809), [upload metadata](https://viralshooter.com/v/m5UXf0zQn5A) | **Confirmed new countdown edit**, calling out Avengers, New Avengers, Wakandans, Fantastic Four and X-Men ([Nov. 19 independent roundup](https://legadodamarvel.com.br/vingadores-doutor-destino-marvel-divulga-novo-teaser-oficial-de-doomsday-focado-em-5-grupos-de-herois/)). **No independently verified exclusive feature-film scenes**; category cards do not prove exact on-screen team alliances. |
+| **November 18 — Marvel Japan “Assemble” regional TV spot** (~**0:31**) | [Official Japanese Marvel video](https://www.youtube.com/watch?v=XPAZKuzZz1M), [regional original upload metadata](https://viralshooter.com/v/XPAZKuzZz1M) | **Confirmed new regional video**, Japanese localized audio and montage; **no independently authenticated scene-by-scene comparison**. Japanese voice actor Toshiyuki Morikawa was announced **November 3** ([older entry](../news/2026-11-03.md)), not newly cast Nov. 18. |
+
+**Also original NOVEMBER 18, NOT MOVIE FOOTAGE:** [Marvel Studios' 11 connected character posters](https://x.com/MarvelStudios/status/2123114012657295484) feature ten dual-character matchups and one solo Doom ([contemporaneous set analysis](https://www.9to5marvel.com/avengers-doomsday-character-posters-pairings/)). This is **studio art, not a film video**. No poster-implied relationship or Doombot appearance is promoted to a verified in-movie event.
+
+**Video-identity control:** Marvel Entertainment's Nov. 13 [“Every Moment” Disney+ montage](https://www.youtube.com/watch?v=Kl7nG1nD0mk), Nov. 11 [“Return to the Universe” montage](https://www.youtube.com/watch?v=3pnpz8SqRI8), Nov. 12 [Disney UK spot](https://www.youtube.com/watch?v=7n3etujuU3c), and Oct. 23 [MLB campaign](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) are **older, distinct assets**. No newly verified Nov. 18/19 MLB spot. The rumored Nov. 18 **final full theatrical trailer** did **not** materialize; no new certified release time has been established ([Nov. 19 review](https://www.9to5marvel.com/when-is-the-next-avengers-doomsday-trailer/)). No comic-theory upgrade: an antagonist solo poster and the name “Doom” do **not** authenticate Battleworld, God Emperor Doom, Tony-as-Doom or precise film plot. The official [Disney US listing](https://movies.disney.com/avengers-doomsday) retains **December 18, 2026**.
+
+**Detail and source ledger:** [Nov. 19 archive check and original November 18 release dates](../news/2026-11-19.md).
+
+---
 
 ## November 18 video-only audit — no new authenticated film footage despite trailer-date rumors
 
