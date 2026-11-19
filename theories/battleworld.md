@@ -1,5 +1,12 @@
 # Theory: Battleworld
 
+## November 19 review — November 18 solo Doom poster and actor featurette do not verify Battleworld
+
+**ORIGINAL PROMOS NOVEMBER 18; ARCHIVE CHECK NOVEMBER 19.** [Marvel Studios' eleven-poster release](https://x.com/MarvelStudios/status/2123114012657295484) singles out **Victor von Doom** on a solo poster while displaying teams in ten pairings ([documented pairings](https://www.9to5marvel.com/avengers-doomsday-character-posters-pairings/)). [Marvel Entertainment's “The Return” featurette](https://www.youtube.com/watch?v=Fg0jyss_YnU) includes actor commentary on Doom's manipulative characterization, and a [separate official ~0:27 countdown](https://www.youtube.com/watch?v=m5UXf0zQn5A) highlights five hero categories. These are **authentic new marketing assets**, **not a confirmed in-film chronology or power source**. A solitary antagonist image does not prove the **God Emperor**, a patchwork Battleworld, Beyonder power or the finale.
+
+**Comic comparison:** *Marvel Super Heroes Secret Wars* (1984–85) and *Secret Wars* (2015) both juxtapose many factions with a powerful Doom but are distinct stories; the former features the Beyonder's Battleworld and the latter Doom's reality-reconstruction rule. The observed posters are broadly compatible with a crossover and are **non-discriminating between these and countless alternative scripts**. **Battleworld theory remains LOW–MODERATE / unconfirmed; no confidence increase.** A [separate Marvel comic published Nov. 18](../comics/storylines/black-panther-namor-doomed-2026.md) concerns three rival sovereigns and the Kingkiller; nothing verifies the movie will adapt it. [Full Nov. 19 archive](../news/2026-11-19.md).
+
+
 ## November 16 — Secret Wars interview describes a different world, not a named Battleworld
 
 **ON-RECORD AS ATTRIBUTED, original November 16:** [The Playlist's report of Feige and Joe Russo's *Empire* comments](https://theplaylist.net/kevin-feige-joe-russo-avengers-secret-wars-20261116/) says *Secret Wars* is meant to be very different from *Doomsday* and invokes an unusually conceived world. The full original interview was not accessed; these comments are **about the 2027 sequel**, not a confirmed setting in the December 2026 movie.
