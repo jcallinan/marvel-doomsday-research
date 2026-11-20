@@ -1,6 +1,22 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-19. Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
+**Last verified:** 2026-11-20.
+
+## November 20, 2026 research update — future November 30 Disney preview and distinct November 18 Marvel short
+
+**ARCHIVE CHECK NOVEMBER 20; SOURCE EVENTS NOVEMBER 18–19.** [Disney Parks' Nov. 19 primary announcement](https://disneyparksblog.com/disney-experiences/disney-holiday-special-returns-with-star-studded-music-lineup-and-more/) explicitly schedules a **future Nov. 30 special sneak peek** in *The Wonderful World of Disney: Holiday Spectacular* (ABC 8–10 p.m. ET/PT; next-day streaming from Dec. 1 at 3 a.m. ET on Disney+, Hulu and Disney's YouTube). **Not yet released.** No video ID, length, shot timestamps or final-trailer identity established. [ABC's Nov. 19 listing](https://abc.com/news/28ae4a1a-1312-4e16-b964-ac6ee1bd909e/category/3536114) also notes Kathryn Newton's Avengers Campus visit; a theme-park segment is **not** necessarily film footage.
+
+| Original release date | Official link | Verification and non-duplication |
+|---|---|---|
+| **Nov. 18 — “Simu Liu joins the countdown,” ~0:11, Marvel Entertainment** | [Original official Marvel upload](https://www.youtube.com/watch?v=Q0KvhZHl48I); [channel metadata/date mirror](https://viralshooter.com/v/Q0KvhZHl48I) | **CONFIRMED DISTINCT podcast advertisement**, not a new theatrical trailer or verified film-cut shots. It advertises the next *Countdown to Avengers: Doomsday* episode. |
+| **Nov. 19 — Shang-Chi installment of Marvel's official podcast (~49 minutes)** | [Marvel's official series distribution listing](https://podcasts.apple.com/us/podcast/countdown-to-avengers-doomsday-official-podcast/id6803577933) | **Confirmed newly dated episode with Simu Liu**. Commentary/retrospective content, **not footage**. Full audio not independently audited for specific MCU claims. |
+| **Nov. 18 — ScreenX filmmaker video reported by GamesRadar** | [Source report and attributed Russo comments](https://www.gamesradar.com/entertainment/marvel-movies/avengers-doomsday-in-screenx-will-have-things-you-simply-will-not-see-anywhere-else-say-the-russos/) | **On-record filmmakers as reported; original standalone first-party video URL not independently located.** The ScreenX three-screen extension is theatrical presentation, **not verified different story scenes/alternate ending**. |
+
+**Not new video footage:** [Dunkin's four Nov. 17–18 branded restaurant takeovers](https://news.dunkindonuts.com/blog/your-next-dunkinR-run-just-got-a-doomsday-upgrade), including Boston's Latverian throne. Those are different from its [older Nov. 4 ad](https://www.youtube.com/watch?v=d0IVKhzkqtE). [Nov. 19 detailed checkpoint](../news/2026-11-19.md) already contains the **three Nov. 18 Marvel official promos**, so there is no second “The Return” entry here. [Original Oct. 23 MLB promotion](https://www.mlb.com/news/avengers-doomsday-game-1-of-the-2026-world-series) has no authenticated successor as of this check. The [U.S. film date remains Dec. 18](https://movies.disney.com/avengers-doomsday).
+
+**Comic evidence rule:** New public-address / throne marketing invites comparison with Doom's Latverian sovereignty in [Marvel's *One World Under Doom* (2025) #1](https://www.marvel.com/comics/issue/123518/one_world_under_doom_2025_1_variant/variant), but **no official film-plot adaptation confirmed**; no frame-precise claims without reviewing frames.
+
+ Separate *publisher-verified* descriptions from direct frame-by-frame review. An official advertisement may use footage differently from the eventual theatrical cut.
 
 ## November 19 archive review — November 18 brought three distinct officially uploaded promos, not the rumored final trailer
 
