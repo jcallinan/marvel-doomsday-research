@@ -1,5 +1,11 @@
 # Theory: Doctor Doom, Tony Stark and visual identity
 
+## November 20, 2026 — Downey's invented Latverian speech is a characterization clue, not Tony's identity
+
+**ON-RECORD VIA NOVEMBER 20 SECONDARY REPORT OF EMPIRE:** [GamesRadar's Downey interview account](https://www.gamesradar.com/entertainment/marvel-movies/robert-downey-jr-says-he-initially-didnt-want-to-go-eastern-european-with-his-doctor-doom-voice-in-avengers-doomsday/) describes the actor developing Victor's distinctive voice through a spoken address to his people in Latveria, with initial misgivings about an Eastern-European sound. **This supports a deliberate Victor von Doom/Latverian characterization**, consistent with Feige's already documented rejection (Nov. 12) of the Tony-Stark-variant theory. It **does not establish** that the rehearsal speech appears in the finished film, what Doom says in that speech, or the origins of any resemblance to Iron Man.
+
+**Publisher-grounded comics context:** [Marvel's *One World Under Doom* (2025) #1 synopsis](https://www.marvel.com/comics/issue/123518/one_world_under_doom_2025_1_variant/variant) describes Victor communicating his rule through a worldwide broadcast. This is a **motif comparison only**; it is **not a confirmed cinematic adaptation**. [Nov. 20 research entry](../news/2026-11-20.md) and [new Latverian sovereignty dossier](../comics/storylines/doom-latverian-rhetoric-and-rule.md).
+
 ## November 13 archive update — Kevin Feige's November 12 on-record correction
 
 **Evidence upgrade — filmmaker/studio leadership statement, originally November 12:** Marvel Studios president **Kevin Feige** expressly rejects the idea that Robert Downey Jr.'s casting means Doom is a variant of Tony Stark. He says the character is **Victor von Doom**, comparing the casting to Chris Evans playing both Johnny Storm and Steve Rogers. Original [Empire exclusive (Nov. 12)](https://www.empireonline.com/movies/news/avengers-doomsday-doctor-doom-worth-being-scared-of-exclusive/); independently reported [SlashFilm (Nov. 12)](https://www.slashfilm.com/2315324/robert-downey-jr-doctor-doom-not-tony-stark-variant-marvel/).
