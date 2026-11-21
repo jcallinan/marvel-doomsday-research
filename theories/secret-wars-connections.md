@@ -1,5 +1,13 @@
 # Theory: *Secret Wars* connections
 
+## November 21, 2026 — Joe Russo confirms clue-driven marketing strategy, not a specific *Secret Wars* plot
+
+**ON-RECORD AS REPORTED, ARTICLE PUBLISHED NOVEMBER 21:** [Ben Dalton's *Screen Daily* account of Joe Russo at Doha Industry Days](https://www.screendaily.com/news/joe-russo-teases-final-avengers-doomsday-trailer-keep-refreshing-your-feed/5222656.article) describes a intentionally staged series of marketing clues and monitoring whether fans track the complicated storyline; the filmmaker also **teases**, without dating or officially announcing, a potential remaining trailer. **This updates the rationale for comparing authenticated promo details over time, not the film's actual revealed mechanics**.
+
+**Original NOVEMBER 19 studio video, archive backfill NOVEMBER 21:** [Marvel's Sphere exterior promo](https://x.com/MarvelStudios/status/2123476968406728974) juxtaposes Doom with Avengers, X-Men and Fantastic Four icons. It is **marketing artwork** rather than independently authenticated movie frames. A [Nov. 21 secondary Visa video report](https://www.comicbasics.com/avengers-doomsday-sends-fresh-footage-into-the-wild-with-thor-gambit-beast-and-the-thing/) and [Monopoly GO! speculation](https://www.omelete.com.br/filmes/vingadores-doutor-destino-capita-marvel-homem-aranha-wolverine-monopoly-go) do **not** establish a theatrical plot beat or surprise cast.
+
+**PUBLISHER COMPARISON:** Marvel's [*Secret Wars* (2015) publisher reading list](https://share.marvel.com/comics/discover/508/secret-wars) calls its result a **patchwork Battleworld after a final incursion**. Marvel's [1984 *Secret Wars* #2 reprint description](https://www.marvel.com/comics/issue/114777/marvel_super_heroes_secret_wars_facsimile_edition_2024_2_variant/variant) specifies **Beyonder-assembled Battleworld**. Marketing's cross-team symbols are compatible with both AND with an original multiversal crossover; they identify **neither**. **Theory unchanged: Battleworld / God Emperor Doom unconfirmed**. [November 21 evidence ledger](../news/2026-11-21.md).
+
 ## November 20, 2026 evidence review — Loki's position and ScreenX are not a Battleworld reveal
 
 **Archive reviewed Nov. 20.** **ON-RECORD AS REPORTED (GamesRadar's Nov. 20 *Empire*-attributed account):** [Tom Hiddleston describes Feige and Louis D'Esposito explaining Loki's centrality to a multiverse continuation](https://www.gamesradar.com/entertainment/marvel-movies/kevin-feige-told-tom-hiddleston-that-loki-was-essential-to-avengers-doomsday/). That supports the **God of Stories/timeline-stewardship premise as narratively relevant** but **does not disclose** Loki's role in any Doom ritual, reality merge, destruction of timelines or Battleworld's creation.
