@@ -1,5 +1,13 @@
 # Avengers: Doomsday — verified facts tracker
 
+## November 21, 2026 review — Joe Russo discusses marketing clues; no plot/casting confirmation
+
+**ON-RECORD FILMMAKER REMARKS AS REPORTED:** [*Screen Daily*, original November 21 publication](https://www.screendaily.com/news/joe-russo-teases-final-avengers-doomsday-trailer-keep-refreshing-your-feed/5222656.article), reports Joe Russo telling attendees at Doha Industry Days that another trailer **may** appear before release and explaining a staggered, clue-bearing campaign, with ongoing audience-feedback adjustments. **Confirmed attributable commentary**, **NOT** an official next-trailer date, a film plot reveal or proof a specific *Secret Wars* theory is accurate. The talk's exact calendar date is not verified independently; November 21 is the **report publication date**.
+
+**PRIMARY PROMO BACKFILL (ORIGINAL NOVEMBER 19):** [Marvel Studios Las Vegas Sphere video](https://x.com/MarvelStudios/status/2123476968406728974), [contemporaneously covered Nov. 19](https://www.superherohype.com/movies/707764-avengers-doomsday-video-mcu-doctor-doom-take-over-unexpected-location/xwp_curated_content): outdoor marketing art of Doom and three hero groups, **not authenticated new theatrical film footage** or new cast. A Nov. 21 [reported Visa ad](https://fictionhorizon.com/visa-joins-the-avengers-doomsday-hype-with-a-new-tv-spot-starring-thor-gambit-beast-and-the-thing/) is **not first-party verified**. Spider-Man/Wolverine/Captain Marvel casting interpretations of [purported Monopoly GO! imagery](https://www.omelete.com.br/filmes/vingadores-doutor-destino-capita-marvel-homem-aranha-wolverine-monopoly-go) remain **rumors**.
+
+**UNCHANGED [Disney U.S. release listing](https://movies.disney.com/avengers-doomsday): DECEMBER 18, 2026**. No newly verified final theatrical trailer, major plot disclosure or MLB follow-up. [Complete chronological evidence ledger](../news/2026-11-21.md).
+
 ## November 20, 2026 research update — holiday sneak peek announced; Loki, Doom, ScreenX interviews
 
 **Archive check: November 20; original Disney and interview news dated separately.** **PRIMARY STUDIO ANNOUNCEMENT (NOV. 19):** [Disney Parks Blog](https://disneyparksblog.com/disney-experiences/disney-holiday-special-returns-with-star-studded-music-lineup-and-more/) confirms a **future Nov. 30 Avengers: Doomsday special sneak peek on ABC**, 8–10 p.m. Eastern/Pacific, streaming Dec. 1 from 3 a.m. ET on Disney+/Hulu/Disney YouTube. [ABC's Nov. 19 rundown](https://abc.com/news/28ae4a1a-1312-4e16-b964-ac6ee1bd909e/category/3536114) announces Kathryn Newton at Avengers Campus. **Only the scheduled presentation is confirmed**, not preview scenes, length, new film material or a final-trailer drop.
