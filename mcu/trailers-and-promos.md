@@ -1,6 +1,18 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-20.
+**Last verified:** 2026-11-21.
+
+## November 21 archive check — Russo trailer tease, November 19 official Sphere backfill and unverified partner spots
+
+**Original publication versus review dates:** [*Screen Daily* report published November 21](https://www.screendaily.com/news/joe-russo-teases-final-avengers-doomsday-trailer-keep-refreshing-your-feed/5222656.article) attributes to Joe Russo an **unscheduled** possible trailer before December 18 and confirms intentional marketing clues. **This is an interview, not a newly released trailer or an official release date for one.**
+
+| Original date / identity | Video or source | Verified scope |
+|---|---|---|
+| **November 19 — Marvel Studios' Las Vegas Sphere global-tour video (~0:59)** | [Original Marvel Studios X post](https://x.com/MarvelStudios/status/2123476968406728974); [Nov. 19 secondary scene account](https://www.superherohype.com/movies/707764-avengers-doomsday-video-mcu-doctor-doom-take-over-unexpected-location/xwp_curated_content) | **CONFIRMED OFFICIAL PROMOTIONAL RELEASE, BACKFILLED NOV. 21.** Real exterior Sphere light/projection show featuring film title and Avengers, X-Men, Fantastic Four and Doom graphics; **NOT proven theatrical film footage**. No independent frame-step timestamps. The nine-city tour was already announced Nov. 5. |
+| **Reported November 21 — Visa ~0:29 crossover commercial** | [Nov. 21 article](https://www.comicbasics.com/avengers-doomsday-sends-fresh-footage-into-the-wild-with-thor-gambit-beast-and-the-thing/) | **SECONDARY REPORT / ORIGINAL BRAND VIDEO UNVERIFIED.** Fan-reposted footage purportedly depicts Thor, Gambit, Beast and the Thing. No reliable original Visa/Marvel upload, new feature-film frames or exact timecodes established. |
+| **Circulating by November 19; reported November 21 — Monopoly GO! collaboration** | [Omelete Nov. 21 coverage](https://www.omelete.com.br/filmes/vingadores-doutor-destino-capita-marvel-homem-aranha-wolverine-monopoly-go) | **UNVERIFIED ORIGINAL PROMO / CASTING RUMOR.** Suggested Spider-Man, Wolverine and Captain Marvel promotional characters are **NOT authenticated theatrical cast members**. |
+
+**Catalog audit:** [Disney's current Marvel video index](https://video.disney.com/marvel) still lists the previously known November 18 "The Return" and earlier promos. [Disney's November 19 announcement of a **future November 30** ABC preview](https://disneyparksblog.com/disney-experiences/disney-holiday-special-returns-with-star-studded-music-lineup-and-more/) remains **prospective**, not a newly released clip. No new verified final full trailer or MLB cross-promotion after the [original October World Series spot](https://www.mlb.com/es/news/promocional-de-avengers-doomsday-se-estrena-durante-el-juego-1-de-la-serie-mundial-del-2026). Film/plot/Secret Wars theories **unchanged**. [Complete Nov. 21 dated source ledger](../news/2026-11-21.md).
 
 ## November 20, 2026 research update — future November 30 Disney preview and distinct November 18 Marvel short
 
