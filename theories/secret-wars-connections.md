@@ -1,5 +1,12 @@
 # Theory: *Secret Wars* connections
 
+## November 22, 2026 — Spider-Man sports edit and Atwell's possible Nov. 23 trailer
+
+**Original clip Nov. 19, first detailed report Nov. 22:** [Marvel Studios Japan X video](https://x.com/MarvelStudios_J/status/2123270445306962163) is a licensed [B.LEAGUE crossover (announced October 16)](https://www.bleague.jp/en/news_detail/id%3D666310); [The Direct](https://thedirect.com/article/avengers-doomsday-tom-holland-spider-man-marvel-studios-tobey-maguire-mcu) describes recycled **2019 *Endgame*** Spider-Man portal footage, a **different evidence class** from new *Doomsday* theatrical footage. **No casting inference:** neither Tom Holland nor Tobey Maguire is authenticated for the film by this ad. [Publisher-sourced 1984 Spider-Man/Secret Wars research](../comics/storylines/spider-man-secret-wars-promo-evidence.md) explains the black-costume connection and its **non-probative** status for a 2026 film.
+
+**Atwell stage-door remarks Nov. 20, reported Nov. 21:** [ComicBook.com](https://comicbook.com/movies/news/avengers-star-just-spoiled-when-the-new-doomsday-trailer-releases-its-very-soon/) documents a **tentative** November 23 trailer expectation; **no scenes/plot details have been independently supplied**, and an actor's impression of its tone does not confirm Steve/Peggy tragedy, the villain's incursion logic or any *Secret Wars* ending. **Battleworld/God Emperor Doom remain unconfirmed; theory confidence unchanged.** [Nov. 22 source audit](../news/2026-11-22.md).
+
+
 ## November 21, 2026 — Joe Russo confirms clue-driven marketing strategy, not a specific *Secret Wars* plot
 
 **ON-RECORD AS REPORTED, ARTICLE PUBLISHED NOVEMBER 21:** [Ben Dalton's *Screen Daily* account of Joe Russo at Doha Industry Days](https://www.screendaily.com/news/joe-russo-teases-final-avengers-doomsday-trailer-keep-refreshing-your-feed/5222656.article) describes a intentionally staged series of marketing clues and monitoring whether fans track the complicated storyline; the filmmaker also **teases**, without dating or officially announcing, a potential remaining trailer. **This updates the rationale for comparing authenticated promo details over time, not the film's actual revealed mechanics**.
