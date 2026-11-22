@@ -1,6 +1,13 @@
 # Trailers, teasers, TV spots and sports promotions
 
-**Last verified:** 2026-11-21.
+## November 22, 2026 archive audit — original November 19 Japan basketball co-promotion; November 20 Atwell remarks
+
+**Original source dates vs review date:** B.LEAGUE announced its 2027 All-Star *Doomsday* partnership **October 16** ([official league release](https://www.bleague.jp/en/news_detail/id%3D666310)). [Marvel Studios Japan original X promotional video](https://x.com/MarvelStudios_J/status/2123270445306962163) is attributed to **November 19**; [The Direct's first detailed footage comparison](https://thedirect.com/article/avengers-doomsday-tom-holland-spider-man-marvel-studios-tobey-maguire-mcu) was published **November 22**. Reported runtime **~0:37**. This is a **previously uncataloged official regional sports-commercial edit**, not a newly filmed November 22 trailer. The Direct describes recycled *Endgame* portal footage of Holland's Spider-Man followed by existing *Doomsday* promo imagery and basketball highlights. Original X playback was **not accessible for direct frame review**, so **new in-film shots and precise timecodes are not independently verified**. The film does **not** acquire Spider-Man casting proof from recycled footage.
+
+**Actor comment about a possible new trailer (NOT FOOTAGE):** [Nov. 20 Hayley Atwell stage-door recording](https://x.com/HayleyAtwell_CN/status/2124188951984664753), [reported November 21](https://comicbook.com/movies/news/avengers-star-just-spoiled-when-the-new-doomsday-trailer-releases-its-very-soon/), has Atwell saying she **thinks** a new trailer may release **Monday Nov. 23** and that she has watched it. **Unconfirmed studio schedule**, no newly published video and no confirmed final-trailer identity. The [official November 30 ABC preview announcement](https://disneyparksblog.com/disney-experiences/disney-holiday-special-returns-with-star-studded-music-lineup-and-more/) is separate upcoming programming. No new authenticated full theatrical trailer, film-cut Spider-Man footage, later MLB spot or verified spoiler scene. [Full November 22 archive](../news/2026-11-22.md).
+
+
+**Last verified:** 2026-11-22.
 
 ## November 21 archive check — Russo trailer tease, November 19 official Sphere backfill and unverified partner spots
 
