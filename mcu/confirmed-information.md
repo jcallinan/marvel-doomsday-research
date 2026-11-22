@@ -1,5 +1,14 @@
 # Avengers: Doomsday — verified facts tracker
 
+## November 22, 2026 — Atwell's contingent trailer remark and a regional marketing backfill
+
+**ON-RECORD AS REPORTED (stage-door remarks November 20; reporting November 21):** [Fan-recorded Hayley Atwell clip](https://x.com/HayleyAtwell_CN/status/2124188951984664753), [ComicBook.com coverage](https://comicbook.com/movies/news/avengers-star-just-spoiled-when-the-new-doomsday-trailer-releases-its-very-soon/) and [Murphy's Multiverse](https://www.murphysmultiverse.com/avengers-doomsday-new-trailer-release-date-hayley-atwell-november-23/) report she had seen another trailer and *thought* it might appear **Monday, November 23**. She did **not** announce an official Marvel/Disney upload, final-trailer date, plot detail, specific emotional scene or confirmed death. **The comment is attributable; the schedule is provisional/unconfirmed**.
+
+**FIRST-PARTY PARTNER PROMOTION, ORIGINAL VIDEO NOV. 19, CATALOGED NOV. 22:** [Marvel Studios Japan sports post](https://x.com/MarvelStudios_J/status/2123270445306962163) supports the [B.LEAGUE campaign originally announced October 16](https://www.bleague.jp/en/news_detail/id%3D666310). [The Direct's Nov. 22 description](https://thedirect.com/article/avengers-doomsday-tom-holland-spider-man-marvel-studios-tobey-maguire-mcu) says the ~37-sec edit recycles Spider-Man's *Endgame* portal shot and previously released *Doomsday* material. The original X clip was **not directly frame-reviewed**; no first-time movie scene, actor casting, actual in-film Spider-Man appearance or reliable timestamps confirmed. See [comics vs marketing test](../comics/storylines/spider-man-secret-wars-promo-evidence.md).
+
+**No change to verified film details:** [Disney retains December 18 U.S. theatrical date](https://movies.disney.com/avengers-doomsday); [November 30 sneak peek](https://disneyparksblog.com/disney-experiences/disney-holiday-special-returns-with-star-studded-music-lineup-and-more/) remains scheduled future material. No confirmed new final trailer, film plot reveal, MLB video or Spider-Man casting. [Detailed Nov. 22 report](../news/2026-11-22.md).
+
+
 ## November 21, 2026 review — Joe Russo discusses marketing clues; no plot/casting confirmation
 
 **ON-RECORD FILMMAKER REMARKS AS REPORTED:** [*Screen Daily*, original November 21 publication](https://www.screendaily.com/news/joe-russo-teases-final-avengers-doomsday-trailer-keep-refreshing-your-feed/5222656.article), reports Joe Russo telling attendees at Doha Industry Days that another trailer **may** appear before release and explaining a staggered, clue-bearing campaign, with ongoing audience-feedback adjustments. **Confirmed attributable commentary**, **NOT** an official next-trailer date, a film plot reveal or proof a specific *Secret Wars* theory is accurate. The talk's exact calendar date is not verified independently; November 21 is the **report publication date**.
