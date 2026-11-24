@@ -1,5 +1,11 @@
 # Avengers: Doomsday — verified facts tracker
 
+## November 24, 2026 — filmmaker accounts and Disney primary clarification
+
+[Disney+ guide revised November 24](https://www.disneyplus.com/explore/articles/avengers-doomsday): **OFFICIAL** Victor von Doom is Latveria's monarch with both scientific and magical capabilities and a history with the Fantastic Four; no confirmed Tony Stark link. [EW original cover story November 24](https://ew.com/avengers-doomsday-cover-story-exclusive-12274201): **ON-RECORD / REPORTED** the prior friendship of Reed and Victor, Latverian witches, and substantial Hickman influence; individual identities and specific adaptation beats remain open. For the exact evidence hierarchy see [today's dated ledger](../news/2026-11-24.md).
+
+[Marvel Japan November 23](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261123_01) officially links the crisis to earlier Avengers choices but does not provide a technical causal mechanism. [D23](https://d23.com/d23-event/d23-gold-member-opening-day-screenings-of-avengers-doomsday/) lists limited December 17 fan screenings, not a new wide-release date. Variety's [November 23–24 trade report](https://varietyindia.com/marvels-avengers-doomsday-wont-screen-for-bafta-golden-globes-and-other-early-awards-groups-to-guard-its-spoilers-exclusive/) places the premiere December 14 and describes withheld awards screenings; classify that as **reported**. December 18 U.S. wide release unchanged.
+
 ## November 23, 2026 — final theatrical trailer is actually released; Kate Bishop cast confirmed; Disney+ tickets
 
 **CONFIRMED OFFICIAL TRAILER, ORIGINAL NOV. 23:** [Marvel Entertainment's full “Final Trailer” upload](https://www.youtube.com/watch?v=Wb8Tq_HD4E8). [The Walt Disney Company's same-day corporate account](https://thewaltdisneycompany.com/news/movie-ticketing-disney-plus-avengers-doomsday/) independently acknowledges the new trailer and its Disney+ availability. **UPDATE TO NOV. 22 PREDICTION BELOW:** What Atwell tentatively anticipated is now **a real release**, not merely a rumored date. The Nov. 18 featurette and Nov. 19 Sphere/Japan crossover are **different older videos**.
