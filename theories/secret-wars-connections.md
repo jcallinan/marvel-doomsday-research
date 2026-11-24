@@ -1,5 +1,11 @@
 # Theory: *Secret Wars* connections
 
+## November 24, 2026 — named comic inspiration is now on record
+
+[EW's original November 24 cover story](https://ew.com/avengers-doomsday-cover-story-exclusive-12274201) provides a **material evidence upgrade**: see the [dated source summary](../news/2026-11-24.md) for Feige's preference for the Hickman-era story and the Russos' inclusion of both comics iterations. **Prior blanket claims below that the 2015 influence is only speculative are superseded in this limited sense.** A creative source is now attributable, not a confirmed panel-for-panel adaptation. Battleworld, Doom's power source and God Emperor status remain unverified.
+
+**Comic test path:** [Avengers (2012) #37](https://www.marvel.com/comics/issue/48391/avengers_2012_37) and [#40](https://www.marvel.com/comics/issue/48394/avengers_2012_40) explicitly belong to Hickman's countdown; follow with [Marvel's Secret Wars #1–9 guide](https://share.marvel.com/comics/discover/508/secret-wars). Look for differences between the 1984 arena premise and the 2015 reality-reconstruction premise rather than treating the two as interchangeable.
+
 ## November 23 — final trailer confirms larger confrontation, not God Emperor Doom or Battleworld
 
 **PRIMARY NOV. 23 RELEASE:** [Marvel Entertainment official final theatrical trailer](https://www.youtube.com/watch?v=Wb8Tq_HD4E8); [Disney's same-day corroboration](https://thewaltdisneycompany.com/news/movie-ticketing-disney-plus-avengers-doomsday/). **REPORTED TRAILER CONTENT:** [Entertainment Weekly](https://ew.com/avengers-doomsday-final-trailer-12272341) and [People](https://people.com/robert-downey-jr-chris-evans-avengers-doomsday-trailer-12274339), both **Nov. 23**, describe a Steve/Peggy teenage son, Fantastic Four recruitment and combat featuring X-Men, mutants and Sentinels. **New inference supported:** the story actively intersects the heroes' family/time-legacy stakes and cross-team mutant conflict, not merely an abstract marketing grouping.
