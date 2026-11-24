@@ -1,5 +1,9 @@
 # Theory ledger: Doctor Doom and Scarlet Witch in *Avengers: Doomsday*
 
+## November 24, 2026 — coven evidence does not identify Wanda
+
+The [November 24 EW cover story](https://ew.com/avengers-doomsday-cover-story-exclusive-12274201) offers attributable filmmaker context for the coven; the [November 23 official Marvel Japan trailer account](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261123_01) describes three masked figures. Neither identifies Wanda under a mask. The previously archived *VisionQuest* scene supplies a separate MCU link; do not infer coven membership, obedience, power transfer or an exact *Children's Crusade* adaptation from the masks. The [existing comics dossier](../comics/storylines/avengers-the-childrens-crusade-2010.md) remains relevant. [Dated evidence ledger](../news/2026-11-24.md).
+
 **Reviewed:** 2026-11-11. **Spoilers for the *VisionQuest* season finale.** Every forward-looking claim is **THEORY**, even when anchored to a confirmed MCU scene.
 
 ## Narrow claim already supported
