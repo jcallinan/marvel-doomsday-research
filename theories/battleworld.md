@@ -1,5 +1,9 @@
 # Theory: Battleworld
 
+## November 24, 2026 — stronger creative provenance, no confirmed location
+
+[EW's November 24 cover story](https://ew.com/avengers-doomsday-cover-story-exclusive-12274201) names the relevant comic runs through interviews with Marvel leadership and the directors; see [today's evidence ledger](../news/2026-11-24.md). This strengthens the **thematic relevance** of [Hickman's 2015 Battleworld](https://share.marvel.com/comics/discover/508/secret-wars), not the factual claim that it appears in *Doomsday*. Keep the actual cinematic location/creation mechanism unconfirmed. No official name, confirmed composite geography, God Emperor title or finale is established by the interview. A 2015 influence is compatible with a different cinematic solution.
+
 ## November 23, 2026 — new trailer strengthens confirmed crossover, not Battleworld confirmation
 
 **NEW FIRST-PARTY MEDIA:** [Marvel's official Nov. 23 final trailer](https://www.youtube.com/watch?v=Wb8Tq_HD4E8), independently confirmed by [Disney's November 23 corporate release](https://thewaltdisneycompany.com/news/movie-ticketing-disney-plus-avengers-doomsday/). **REPORTED CONTENT VIA [EW](https://ew.com/avengers-doomsday-final-trailer-12272341) AND [People](https://people.com/robert-downey-jr-chris-evans-avengers-doomsday-trailer-12274339):** Steve/Peggy's teenage son and a Fantastic Four summons, Cyclops/X-Men and mutant-hunting Sentinels in the escalating conflict. This is more **actual story presentation** than the prior promotional group-posters. But **no scene-level timestamp was independently reproduced** and none of these accounts establishes a canonically named **Battleworld**, a God Emperor Doom identity, a literal patchwork planet, Beyonder powers or final world restructuring.
