@@ -1,5 +1,9 @@
 # Theory: Doctor Doom, Tony Stark and visual identity
 
+## November 24, 2026 — official Disney guide corroborates earlier rejection
+
+[Disney+'s movie guide, revised November 24](https://www.disneyplus.com/explore/articles/avengers-doomsday) explicitly treats a Tony Stark link as speculative, identifies Victor as ruler of Latveria and connects him to the Fantastic Four. This corroborates the **original November 12 Feige rejection** below, rather than constituting a first announcement. A literal Stark variant has strong contrary evidence; whether characters notice the resemblance or the screenplay employs thematic echoes remains open. [Dated ledger](../news/2026-11-24.md).
+
 ## November 20, 2026 — Downey's invented Latverian speech is a characterization clue, not Tony's identity
 
 **ON-RECORD VIA NOVEMBER 20 SECONDARY REPORT OF EMPIRE:** [GamesRadar's Downey interview account](https://www.gamesradar.com/entertainment/marvel-movies/robert-downey-jr-says-he-initially-didnt-want-to-go-eastern-european-with-his-doctor-doom-voice-in-avengers-doomsday/) describes the actor developing Victor's distinctive voice through a spoken address to his people in Latveria, with initial misgivings about an Eastern-European sound. **This supports a deliberate Victor von Doom/Latverian characterization**, consistent with Feige's already documented rejection (Nov. 12) of the Tony-Stark-variant theory. It **does not establish** that the rehearsal speech appears in the finished film, what Doom says in that speech, or the origins of any resemblance to Iron Man.
