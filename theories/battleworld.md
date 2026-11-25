@@ -1,5 +1,19 @@
 # Theory: Battleworld
 
+## CURRENT assessment — November 25 archive of November 24, 2 p.m. ET interview
+
+**ON-RECORD SETTING CONFIRMATION FOR SECRET WARS (2027):** [Feige's separate EW interview](https://ew.com/avengers-secret-wars-launching-pad-2028-movies-imagination-gone-wild-exclusive-12263231) describes the sequel as set on one planet encompassing different worlds and settings. He connects the premise to the aftermath of an incursion catastrophe and Doom's subsequent actions. EW identifies the concept as Battleworld. This materially upgrades the **Battleworld-style premise in Secret Wars** from hypothesis to executive-described setting, superseding older blanket uncertainty below for that sequel only.
+
+| Claim | Current evidence status |
+|---|---|
+| Single composite-world-style setting in Secret Wars | On-record executive description |
+| Actual on-screen name Battleworld | Not independently established |
+| Battleworld shown or constructed in Doomsday | Unconfirmed |
+| Doom specifically creates/rules it; God Emperor title | Comic precedent; unconfirmed screen details |
+| Beyonder, Molecule Man, Loki as power source or Thor Corps | Speculative |
+
+[Marvel's 2015 comic guide](https://share.marvel.com/comics/discover/508/secret-wars) and [publisher Thor retrospective](https://www.marvel.com/articles/comics/the-full-reading-order-of-jason-aaron-s-thor) describe the historical composite realm and Thor police force. The [Nov. 24 Korean teaser](https://x.com/DisneyMovieKr/status/2125363841663947108) reportedly shows Steve and Thor visiting Doom's throne room, but does not establish a Battleworld location or Thor's allegiance. [Dated source audit](../news/2026-11-25.md). All older sections are historical snapshots.
+
 ## November 24, 2026 — stronger creative provenance, no confirmed location
 
 [EW's November 24 cover story](https://ew.com/avengers-doomsday-cover-story-exclusive-12274201) names the relevant comic runs through interviews with Marvel leadership and the directors; see [today's evidence ledger](../news/2026-11-24.md). This strengthens the **thematic relevance** of [Hickman's 2015 Battleworld](https://share.marvel.com/comics/discover/508/secret-wars), not the factual claim that it appears in *Doomsday*. Keep the actual cinematic location/creation mechanism unconfirmed. No official name, confirmed composite geography, God Emperor title or finale is established by the interview. A 2015 influence is compatible with a different cinematic solution.
