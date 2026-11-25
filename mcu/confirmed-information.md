@@ -1,5 +1,11 @@
 # Avengers: Doomsday — verified facts tracker
 
+## November 25 archive — November 24 follow-up filmmaker interviews and regional promotion
+
+**ON RECORD:** [EW, Nov. 24 at 2 p.m. ET](https://ew.com/avengers-secret-wars-launching-pad-2028-movies-imagination-gone-wild-exclusive-12263231): Feige describes a single planet containing different worlds for **Secret Wars (2027)** and the aftermath of multiversal collapse. This supersedes earlier blanket uncertainty about that sequel's setting, not uncertainty about Doomsday's ending, the official planet name, its creation mechanics or Doom's God Emperor title. [EW, Nov. 24 at 1 p.m. ET](https://ew.com/patrick-stewart-avengers-doomsday-final-performance-tributes-exclusive-12262759): Russo describes a Xavier/Magneto forgiveness scene; Feige says a Stewart tribute is under consideration. EW separately reports Stewart chose to participate only in Doomsday; not a plot-outcome confirmation.
+
+**REPORTED PROMO CONTENT:** [Disney Korea Nov. 24 post](https://x.com/DisneyMovieKr/status/2125363841663947108) as embedded in [Nov. 25 coverage](https://maxblizz.com/avengers-doomsday-new-teaser-steve-rogers-thor-doctor-doom/); reported Steve/Thor throne-room scene, group gathering, Doom speech. Direct playback unavailable. No authenticated timestamps or Thor Corps confirmation. **U.S. wide release December 18 unchanged**, per [Disney](https://movies.disney.com/avengers-doomsday). [Dated evidence and viewership reporting](../news/2026-11-25.md).
+
 ## November 24, 2026 — filmmaker accounts and Disney primary clarification
 
 [Disney+ guide revised November 24](https://www.disneyplus.com/explore/articles/avengers-doomsday): **OFFICIAL** Victor von Doom is Latveria's monarch with both scientific and magical capabilities and a history with the Fantastic Four; no confirmed Tony Stark link. [EW original cover story November 24](https://ew.com/avengers-doomsday-cover-story-exclusive-12274201): **ON-RECORD / REPORTED** the prior friendship of Reed and Victor, Latverian witches, and substantial Hickman influence; individual identities and specific adaptation beats remain open. For the exact evidence hierarchy see [today's dated ledger](../news/2026-11-24.md).
