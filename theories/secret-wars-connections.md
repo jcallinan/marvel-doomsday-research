@@ -1,5 +1,11 @@
 # Theory: *Secret Wars* connections
 
+## CURRENT assessment — November 25 archive, separate November 24 Feige interview
+
+[EW, November 24, 2 p.m. ET](https://ew.com/avengers-secret-wars-launching-pad-2028-movies-imagination-gone-wild-exclusive-12263231): Feige explicitly describes a single planet with different worlds and settings as the **Secret Wars (2027)** location and ties it to multiversal catastrophe and Doom's response. Joe Russo explains the need for two films. **ON RECORD:** this is substantially stronger evidence than the earlier cover story's creative influences. The 2015 Hickman model now has direct support at the level of the sequel's premise. **Not established:** exact name on screen, Doom's creation or rule of the planet, God Emperor persona, exact Doomsday ending or any panel-for-panel adaptation. Older blanket uncertainty below about the sequel setting is superseded; uncertainty about the Doomsday film remains.
+
+For comparison read [Marvel's 2015 Secret Wars guide](https://share.marvel.com/comics/discover/508/secret-wars) and [Thors #1–4 via Marvel's Aaron reading guide](https://www.marvel.com/articles/comics/the-full-reading-order-of-jason-aaron-s-thor). The reported Nov. 24 Korean throne-room edit is not Thor Corps confirmation. [Battleworld ledger](battleworld.md); [dated source audit](../news/2026-11-25.md).
+
 ## November 24, 2026 — named comic inspiration is now on record
 
 [EW's original November 24 cover story](https://ew.com/avengers-doomsday-cover-story-exclusive-12274201) provides a **material evidence upgrade**: see the [dated source summary](../news/2026-11-24.md) for Feige's preference for the Hickman-era story and the Russos' inclusion of both comics iterations. **Prior blanket claims below that the 2015 influence is only speculative are superseded in this limited sense.** A creative source is now attributable, not a confirmed panel-for-panel adaptation. Battleworld, Doom's power source and God Emperor status remain unverified.
