@@ -1,5 +1,14 @@
 # Trailers, teasers, TV spots and sports promotions
 
+## November 26 archive — November 25 Magneto spot and November 26 circulating extended variant
+
+| Asset | Original report date | Evidence and differences |
+|---|---|---|
+| Short TV spot (reported ~15 seconds) | Nov. 25, 6:42 p.m. | [Dark Horizons](https://www.darkhorizons.com/magneto-vs-doom-in-new-avengers-tv-spot/); [ComicBookMovie initial account](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-teaser-reveals-a-first-look-at-doctor-dooms-scarred-face---spoilers-a231207?from=hp-pop). Reported Magneto pulling at Doom's mask, green energy and partial facial glimpse. |
+| Longer related edit | Nov. 26, 9:45 a.m. ET | [ComicBookMovie follow-up and unofficial embedded repost](https://comicbookmovie.com/avengers/avengers-doomsday/magneto-removes-doctor-dooms-mask-as-thor-steve-rogers-team-up-in-extended-avengers-doomsday-teaser-a231212). Reported longer mask shot and additional Steve/Thor throne-room material; the throne-room visit was already reported in Nov. 24 Korean teaser. |
+
+**REPORTED only:** original Marvel/Disney upload not authenticated; no direct frame-level comparison, exact extended duration or timecodes. Do not double count the circulating edits as separate verified releases. Magical armor is a plausible interpretation of the described green energy, not verified material composition or universal immunity to Magneto. [ComicBook.com corroborating account](https://comicbook.com/movies/news/avengers-doomsday-teaser-is-packed-with-new-footage-already-answers-a-major-magneto-question/). [Disney official film index](https://movies.disney.com/avengers-doomsday) still leads with the 3:15 final trailer; MLB October 23 baseline unchanged. [Dated ledger](../news/2026-11-26.md).
+
 ## November 25 archive — November 24 Korean regional teaser
 
 **OFFICIAL-ACCOUNT POST AS CORROBORATED; SHOT CONTENT REPORTED:** [Disney Korea X post dated Nov. 24](https://x.com/DisneyMovieKr/status/2125363841663947108), embedded in [MaxBlizz's Nov. 25 report](https://maxblizz.com/avengers-doomsday-new-teaser-steve-rogers-thor-doctor-doom/); [9to5Marvel's Nov. 25 comparison](https://www.9to5marvel.com/avengers-doomsday-international-teaser-steve-thor-doom-throne-room/) identifies new Doom speech, an indoor group gathering and a closing throne-room confrontation with Steve and Thor. Human Torch imagery is also reported; whether each shot is new is not independently established. **Original post inaccessible (403); no verified timecodes, exact duration or shot-by-shot comparison.** No claim of confirmed castle location, chronological sequence or Thor Corps. Separate regional edit, not another full domestic trailer. The November 23 main trailer and October 23 MLB spot remain the domestic/baseball baselines. [Dated evidence](../news/2026-11-25.md).
