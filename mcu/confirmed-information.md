@@ -1,5 +1,11 @@
 # Avengers: Doomsday — verified facts tracker
 
+## November 26 archive — cast interviews, reported footage and official date check
+
+**ON RECORD:** [James Marsden, EW Nov. 25](https://ew.com/james-marsden-cyclops-comic-accurate-avengers-doomsday-exclusive-12275413) discusses the comic-inspired Cyclops and his powers; [Channing Tatum, EW Nov. 25](https://ew.com/channing-tatum-gambit-accent-avengers-doomsday-sets-record-straight-12280870) explains Gambit's clearer dialogue in a dramatic context; [Simu Liu, EW Nov. 26](https://ew.com/simu-liu-addresses-shang-chi-mcu-absence-exclusive-12277785) describes practical choreography with Tatum. These are performance statements, not new cast additions or confirmed character outcomes.
+
+**REPORTED / NOT CONFIRMED:** Nov. 25–26 mask confrontation footage lacks a verified original studio upload. Doom's exact magical defense mechanism, final scarring reveal and Magneto's fate remain open. Downey's Thanksgiving artwork is not a Spider-Man, Pepper Potts or Boris casting announcement. Industry tracking numbers are not studio-confirmed revenue. [Dated evidence](../news/2026-11-26.md). **OFFICIAL:** [Disney film page](https://movies.disney.com/avengers-doomsday) continues to list U.S. December 18, 2026 and PG-13.
+
 ## November 25 archive — November 24 follow-up filmmaker interviews and regional promotion
 
 **ON RECORD:** [EW, Nov. 24 at 2 p.m. ET](https://ew.com/avengers-secret-wars-launching-pad-2028-movies-imagination-gone-wild-exclusive-12263231): Feige describes a single planet containing different worlds for **Secret Wars (2027)** and the aftermath of multiversal collapse. This supersedes earlier blanket uncertainty about that sequel's setting, not uncertainty about Doomsday's ending, the official planet name, its creation mechanics or Doom's God Emperor title. [EW, Nov. 24 at 1 p.m. ET](https://ew.com/patrick-stewart-avengers-doomsday-final-performance-tributes-exclusive-12262759): Russo describes a Xavier/Magneto forgiveness scene; Feige says a Stewart tribute is under consideration. EW separately reports Stewart chose to participate only in Doomsday; not a plot-outcome confirmation.
