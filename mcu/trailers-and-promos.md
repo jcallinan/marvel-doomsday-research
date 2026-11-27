@@ -1,5 +1,15 @@
 # Trailers, teasers, TV spots and sports promotions
 
+## November 27 archive — provenance upgrades and reported new edits
+
+- **Nov. 26, official-account publication corroborated:** [Marvel Studios X](https://x.com/MarvelStudios/status/2125967819195973803), embedded in [CrowdLevels Nov. 26 report](https://www.crowdlevels.com/news/2026-11-26-avengers-doomsday-magneto-doctor-doom-spot). Reported 30 seconds, Magneto/mask, green flashes, Cyclops and Thor. **Supersedes yesterday's lack of an official-account original**; remains part of the same spot family, not a second first reveal. Direct playback restricted; exact overlap/timecodes unknown.
+- **Nov. 27, official-account publication corroborated:** [Marvel Japan X](https://x.com/MarvelStudios_J/status/2126194314736976223), embedded in [3:17 a.m. ET coverage](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-every-choice-has-consequences-in-epic-international-tv-spot-a231224). Additional Doom dialogue about consequences and limited new imagery reported. No verified timecodes or precise incursion cause.
+- **Nov. 27, 11:07 a.m. ET, reported only:** [Steve Rogers/Mjolnir edit](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-tv-spot-sees-steve-rogers-take-flight-and-reveals-spoilers-grave-a231231), unofficial repost embedded; reported grave inscription and Human Torch/device imagery. No authenticated studio original, family relationship, weapon function or timeline.
+- **Nov. 26 reporting, anticipated Dec. 4:** [GamesRadar](https://www.gamesradar.com/entertainment/marvel-movies/spider-man-brand-new-day-re-release-has-a-bonus-scene-that-was-removed-from-avengers-doomsday/) attributes to NYT an upcoming deleted Doomsday scene attached to Spider-Man's theatrical reissue. Not yet released, not official casting evidence; original NYT source inaccessible.
+- **Nov. 23 announcement / Nov. 25 launch:** [Scopely/Marvel Games official Doomsday Go!](https://www.scopely.com/en/news/monopoly-go-marvel-games-unite-for-doomsday-season-avengers-doomsday) upgrades the Nov. 21 unverified partner campaign entry to confirmed licensed promotion. Game content is not theatrical footage.
+
+[Disney video index](https://video.disney.com/marvel) still leads with Nov. 23 final trailer; no additional MLB edit identified. [Full dated ledger](../news/2026-11-27.md).
+
 ## November 26 archive — November 25 Magneto spot and November 26 circulating extended variant
 
 | Asset | Original report date | Evidence and differences |
@@ -7,7 +17,7 @@
 | Short TV spot (reported ~15 seconds) | Nov. 25, 6:42 p.m. | [Dark Horizons](https://www.darkhorizons.com/magneto-vs-doom-in-new-avengers-tv-spot/); [ComicBookMovie initial account](https://comicbookmovie.com/avengers/avengers-doomsday/avengers-doomsday-teaser-reveals-a-first-look-at-doctor-dooms-scarred-face---spoilers-a231207?from=hp-pop). Reported Magneto pulling at Doom's mask, green energy and partial facial glimpse. |
 | Longer related edit | Nov. 26, 9:45 a.m. ET | [ComicBookMovie follow-up and unofficial embedded repost](https://comicbookmovie.com/avengers/avengers-doomsday/magneto-removes-doctor-dooms-mask-as-thor-steve-rogers-team-up-in-extended-avengers-doomsday-teaser-a231212). Reported longer mask shot and additional Steve/Thor throne-room material; the throne-room visit was already reported in Nov. 24 Korean teaser. |
 
-**REPORTED only:** original Marvel/Disney upload not authenticated; no direct frame-level comparison, exact extended duration or timecodes. Do not double count the circulating edits as separate verified releases. Magical armor is a plausible interpretation of the described green energy, not verified material composition or universal immunity to Magneto. [ComicBook.com corroborating account](https://comicbook.com/movies/news/avengers-doomsday-teaser-is-packed-with-new-footage-already-answers-a-major-magneto-question/). [Disney official film index](https://movies.disney.com/avengers-doomsday) still leads with the 3:15 final trailer; MLB October 23 baseline unchanged. [Dated ledger](../news/2026-11-26.md).
+**REPORTED only at the Nov. 26 checkpoint (see Nov. 27 provenance upgrade above):** original Marvel/Disney upload was not yet authenticated; no direct frame-level comparison, exact extended duration or timecodes. Do not double count the circulating edits as separate verified releases. Magical armor is a plausible interpretation of the described green energy, not verified material composition or universal immunity to Magneto. [ComicBook.com corroborating account](https://comicbook.com/movies/news/avengers-doomsday-teaser-is-packed-with-new-footage-already-answers-a-major-magneto-question/). [Disney official film index](https://movies.disney.com/avengers-doomsday) still leads with the 3:15 final trailer; MLB October 23 baseline unchanged. [Dated ledger](../news/2026-11-26.md).
 
 ## November 25 archive — November 24 Korean regional teaser
 
