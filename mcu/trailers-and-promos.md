@@ -1,5 +1,12 @@
 # Trailers, teasers, TV spots and sports promotions
 
+## November 28 archive — follow-up provenance and game promotion
+
+- **Nov. 27 Steve/Mjolnir edit, follow-up Nov. 27–28:** [GamesRadar](https://www.gamesradar.com/entertainment/marvel-movies/new-avengers-doomsday-tv-spot-shows-steve-rogers-in-latveria-and-jokes-about-chris-evanss-fantastic-four-past/), [Unboxholics](https://unboxholics.com/en/news/movies/139689-avengers-doomsday-new-clip-shows-steve-rogers-in-latveria) and [Men's Journal](https://www.mensjournal.com/entertainment/a-new-avengers-doomsday-teaser-may-have-revealed-more-about-doctor-dooms-son) provide additional scene descriptions. The latter two attribute the circulating clip to Disney Turkey (reported removed upload / fan repost); original not authenticated. No independent timecodes, verified new Nov. 28 edit or confirmed Malachi relationship. This is the existing Nov. 27 spot, not a new catalog item.
+- **Nov. 28 game announcement:** [GamesRadar](https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-takes-another-page-from-overwatchs-playbook-this-time-with-a-k-pop-collab-promoting-its-avengers-doomsday-season/) reproduces Marvel Rivals' announcement of an ATEEZ song slated for Dec. 4. Game promotion, not a feature-film clip or soundtrack confirmation.
+
+[Disney video index](https://video.disney.com/marvel) still leads with the Nov. 23 final trailer; no subsequent MLB edit authenticated. Marvel YouTube enumeration and video playback restricted. [Dated source ledger](../news/2026-11-28.md).
+
 ## November 27 archive — provenance upgrades and reported new edits
 
 - **Nov. 26, official-account publication corroborated:** [Marvel Studios X](https://x.com/MarvelStudios/status/2125967819195973803), embedded in [CrowdLevels Nov. 26 report](https://www.crowdlevels.com/news/2026-11-26-avengers-doomsday-magneto-doctor-doom-spot). Reported 30 seconds, Magneto/mask, green flashes, Cyclops and Thor. **Supersedes yesterday's lack of an official-account original**; remains part of the same spot family, not a second first reveal. Direct playback restricted; exact overlap/timecodes unknown.
