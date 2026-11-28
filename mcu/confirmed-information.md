@@ -1,5 +1,9 @@
 # Avengers: Doomsday — verified facts tracker
 
+## November 28 archive — on-record family theme
+
+[EW, Nov. 28, 8 a.m. ET](https://ew.com/chris-hemsworth-making-avengers-doomsday-with-daughter-india-rose-hemsworth-exclusive-12283863): **ON RECORD** Chris Hemsworth discusses returning Love (India Rose Hemsworth) and Thor's protective motivation; he describes parenthood as a theme across the story. His question about whether this leaves Thor vulnerable does not establish an outcome. The reported Malachi inscription from Nov. 27 is not independent confirmation of the character's relationship or death circumstances. [Marvel Rivals announcement via GamesRadar](https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-takes-another-page-from-overwatchs-playbook-this-time-with-a-k-pop-collab-promoting-its-avengers-doomsday-season/) is a game promotion only, not an MCU soundtrack or cast announcement. Disney U.S. Dec. 18 unchanged. [Dated ledger](../news/2026-11-28.md).
+
 ## November 27 archive — distributor and partner facts; footage provenance
 
 **OFFICIAL:** [Disney film page](https://movies.disney.com/avengers-doomsday) lists Stephen McFeely and Michael Waldron as writers (corroborates prior WGA entry), PG-13 and U.S. Dec. 18. [Disney Japan Nov. 27](https://marvel.disney.co.jp/movie/avengers-doomsday/news/20261127_01) issues a flashing-light advisory. [Scopely Nov. 23](https://www.scopely.com/en/news/monopoly-go-marvel-games-unite-for-doomsday-season-avengers-doomsday) confirms the Nov. 25 Marvel Games campaign launch; earlier Nov. 21 unverified campaign status is superseded, but no film casting follows. **ON RECORD:** [EW Nov. 27 Tatum interview](https://ew.com/channing-tatum-gambit-movie-salacious-naughty-exclusive-12280196) describes the canceled Gambit project and his hopes, not a new film announcement.
